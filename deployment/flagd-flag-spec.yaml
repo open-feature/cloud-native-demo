@@ -1,0 +1,47 @@
+apiVersion: core.openfeature.dev/v1alpha1
+kind: FeatureFlagConfiguration
+metadata:
+  name: end-to-end
+spec:
+  featureFlagSpec: |
+    {
+      "flags": {
+        "new-welcome-message": {
+          "state": "ENABLED",
+          "variants": {
+            "on": true,
+            "off": false
+          },
+          "defaultVariant": "on"
+        },
+        "hex-color": {
+          "variants": {
+            "red": "CC0000",
+            "green": "00CC00",
+            "blue": "0000CC",
+            "yellow": "yellow"
+          },
+          "defaultVariant": "red",
+          "state": "ENABLED"
+        },
+        "fib-algo": {
+          "variants": {
+            "recursive": "recursive",
+            "memo": "memo",
+            "loop": "loop",
+            "binet": "binet"
+          },
+          "defaultVariant": "recursive",
+          "state": "ENABLED",
+          "targeting": {
+            "if": [
+              {
+                "in": ["@faas.com", {
+                  "var": ["email"]
+                }]
+              }, "binet", null
+            ]
+          }
+        }
+      }
+    }

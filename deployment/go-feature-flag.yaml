@@ -1,0 +1,90 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: open-feature-demo-go-feature-flag-proxy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: open-feature-demo-goff
+  template:
+    metadata:
+      labels:
+        app: open-feature-demo-goff
+    spec:
+      containers:
+        - name: open-feature-demo-goff
+          image: thomaspoignant/go-feature-flag-relay-proxy:v0.3.0
+          ports:
+            - containerPort: 1031
+          volumeMounts:
+            - name: goff-config-volume
+              mountPath: /goff/
+      volumes:
+        - name: goff-config-volume
+          configMap:
+            name: goff-config
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: open-feature-demo-goff-service
+spec:
+  type: ClusterIP
+  selector:
+    app: open-feature-demo-goff
+  ports:
+    - port: 1031
+      targetPort: 1031
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: goff-config
+data:
+  goff-proxy.yaml: |
+    # Go Feature Flag Relay Proxy
+    #
+    # Additional information and configuration options can be found here:
+    # https://github.com/thomaspoignant/go-feature-flag-relay-proxy
+    listen: 1031
+    pollingInterval: 1000
+    startWithRetrieverError: false
+    retriever:
+      kind: file
+      path: /goff/flags.yaml
+    exporter:
+      kind: log
+  flags.yaml: |
+    # Go Feature Flag
+    #
+    # More information on configuring a feature flag can be found here:
+    # https://docs.gofeatureflag.org/v0.28.0/flag_format/
+    # Controls the welcome banner message
+    # true: "Welcome to Fib3r: Fibonacci as a service!"
+    # false: "Welcome to FaaS: Fibonacci as a service!"
+    new-welcome-message:
+      true: false
+      false: false
+      default: false
+      percentage: 100
+    # Must be a valid hex value
+    # red: "c05543"
+    # green: "2f5230"
+    # blue: "0d507b"
+    hex-color:
+      true: c05543
+      false: 2f5230
+      default: c05543
+      percentage: 100
+    # Must be a valid algorithm name
+    #  - recurive
+    #  - memo
+    #  - loop
+    #  - binet
+    fib-algo:
+      true: binet
+      false: recursive
+      default: recursive
+      percentage: 100
+      rule: email ew "@faas.com"

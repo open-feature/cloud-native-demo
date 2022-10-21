@@ -1,0 +1,56 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: open-feature-demo-playground-app
+  labels:
+    app: open-feature-demo
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: open-feature-demo
+  template:
+    metadata:
+      labels:
+        app: open-feature-demo
+      annotations:
+        openfeature.dev: "enabled"
+        openfeature.dev/featureflagconfiguration: "end-to-end"
+    spec:
+      containers:
+        - name: open-feature-demo
+          image: ghcr.io/open-feature/playground-app:v0.1.1
+          args:
+            - flagd
+          ports:
+            - containerPort: 30000
+          envFrom:
+            - configMapRef:
+                name: open-feature-demo-config
+            - configMapRef:
+                name: open-feature-demo-env-flag-config
+
+---
+# Service exposed using NodePort
+apiVersion: v1
+kind: Service
+metadata:
+  name: open-feature-demo-service
+spec:
+  type: LoadBalancer
+  selector:
+    app: open-feature-demo
+  ports:
+    # By default and for convenience, the `targetPort` is set to the same value as the `port` field.
+    - port: 30000
+      targetPort: 30000
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: open-feature-demo-config
+data:
+  OTEL_EXPORTER_JAEGER_AGENT_HOST: open-feature-demo-jaeger-service
+  OTEL_EXPORTER_JAEGER_AGENT_PORT: "6832"
+  GO_FEATURE_FLAG_URL: http://open-feature-demo-goff-service:1031
+  FIB_SERVICE_URL: http://open-feature-fibonacci-service:30002
