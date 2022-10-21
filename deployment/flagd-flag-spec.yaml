@@ -21,7 +21,7 @@ spec:
             "blue": "0000CC",
             "yellow": "yellow"
           },
-          "defaultVariant": "red",
+          "defaultVariant": "green",
           "state": "ENABLED"
         },
         "fib-algo": {
