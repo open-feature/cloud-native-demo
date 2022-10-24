@@ -21,8 +21,25 @@ spec:
             "blue": "0000CC",
             "yellow": "yellow"
           },
-          "defaultVariant": "blue",
-          "state": "ENABLED"
+          "defaultVariant": "red",
+          "state": "ENABLED",
+          "targeting": {
+            "fractionalEvaluation": [
+              "userAgent",
+              [
+                "red",
+                50
+              ],
+              [
+                "blue",
+                20
+              ],
+              [
+                "green",
+                30
+              ]
+            ]
+          }
         },
         "fib-algo": {
           "variants": {
