@@ -22,7 +22,24 @@ spec:
             "yellow": "yellow"
           },
           "defaultVariant": "red",
-          "state": "ENABLED"
+          "state": "ENABLED",
+          "targeting": {
+            "fractionalEvaluation": [
+              "userAgent",
+              [
+                "red",
+                50
+              ],
+              [
+                "blue",
+                20
+              ],
+              [
+                "green",
+                30
+              ]
+            ]
+          }
         },
         "fib-algo": {
           "variants": {
