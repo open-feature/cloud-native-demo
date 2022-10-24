@@ -42,7 +42,7 @@ spec:
     app: open-feature-demo
   ports:
     # By default and for convenience, the `targetPort` is set to the same value as the `port` field.
-    - port: 30000
+    - port: 80
       targetPort: 30000
 ---
 apiVersion: v1
