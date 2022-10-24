@@ -21,7 +21,7 @@ spec:
             "blue": "0d507b",
           },
           "defaultVariant": "green",
-          "state": "ENABLED",
+          "state": "ENABLED"
         },
         "fib-algo": {
           "variants": {
