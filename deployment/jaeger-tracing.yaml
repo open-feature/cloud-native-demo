@@ -31,6 +31,17 @@ spec:
     - port: 6832
       targetPort: 6832
       name: internal
-    - port: 16686
+
+---
+# Service exposed using NodePort
+apiVersion: v1
+kind: Service
+metadata:
+  name: open-feature-demo-jaeger-ui
+spec:
+  type: LoadBalancer
+  selector:
+    app: open-feature-demo-jaeger
+  ports:
+    - port: 80
       targetPort: 16686
-      name: external
