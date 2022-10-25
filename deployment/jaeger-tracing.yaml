@@ -31,6 +31,7 @@ spec:
     - port: 6832
       targetPort: 6832
       name: internal
+      protocol: UDP
 
 ---
 # Service exposed using NodePort
