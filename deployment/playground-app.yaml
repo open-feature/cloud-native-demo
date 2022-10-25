@@ -29,6 +29,12 @@ spec:
                 name: open-feature-demo-config
             - configMapRef:
                 name: open-feature-demo-env-flag-config
+          env:
+            - name: HARNESS_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: vendor-keys
+                  key: harness-key
 
 ---
 # Service exposed using NodePort
