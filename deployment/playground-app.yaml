@@ -35,6 +35,26 @@ spec:
                 secretKeyRef:
                   name: vendor-keys
                   key: harness-key
+            - name: LD_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: vendor-keys
+                  key: ld-key
+            - name: SPLIT_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: vendor-keys
+                  key: split-key
+            - name: CLOUDBEES_APP_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: vendor-keys
+                  key: cloudbees-key
+            - name: FLAGSMITH_ENV_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: vendor-keys
+                  key: flagsmith-key
 
 ---
 # Service exposed using NodePort
