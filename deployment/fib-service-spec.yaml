@@ -27,6 +27,12 @@ spec:
           envFrom:
             - configMapRef:
                 name: open-feature-fib-service-config
+          env:
+            - name: HARNESS_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: vendor-keys
+                  key: harness-key
 
 ---
 # Service exposed using NodePort
