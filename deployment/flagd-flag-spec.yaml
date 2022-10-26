@@ -12,7 +12,7 @@ spec:
             "on": true,
             "off": false
           },
-          "defaultVariant": "on"
+          "defaultVariant": "off"
         },
         "hex-color": {
           "variants": {
