@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: open-feature-demo
-          image: ghcr.io/open-feature/playground-app:v0.2.0
+          image: ghcr.io/open-feature/playground-app:v0.4.0
           args:
             - flagd
           ports:
@@ -80,3 +80,4 @@ data:
   OTEL_EXPORTER_JAEGER_AGENT_PORT: "6832"
   GO_FEATURE_FLAG_URL: http://open-feature-demo-goff-service:1031
   FIB_SERVICE_URL: http://open-feature-fibonacci-service:30002
+  NODE_ENV: production
