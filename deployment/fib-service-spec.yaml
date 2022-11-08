@@ -80,3 +80,4 @@ data:
   OTEL_SERVICE_NAME: fibonacci-service
   FIB_SERVICE_USER: ""
   FIB_SERVICE_PASS: ""
+  NODE_ENV: production
