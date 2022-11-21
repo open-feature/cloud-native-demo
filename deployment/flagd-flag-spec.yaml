@@ -27,11 +27,11 @@ spec:
         defaultVariant: recursive
         state: ENABLED
         targeting: {
-            "if": [
-              {
-                "in": ["@faas.com", {
-                  "var": ["email"]
-                }]
-              }, "binet", null
-            ]
-          }
+          "if": [
+            {
+              "in": ["@faas.com", {
+                "var": ["email"]
+              }]
+            }, "binet", null
+          ]
+        }
