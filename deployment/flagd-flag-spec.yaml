@@ -3,36 +3,31 @@ kind: FeatureFlagConfiguration
 metadata:
   name: end-to-end
 spec:
-  featureFlagSpec: |
-    {
-      "flags": {
-        "new-welcome-message": {
-          "state": "ENABLED",
-          "variants": {
-            "on": true,
-            "off": false
-          },
-          "defaultVariant": "off"
-        },
-        "hex-color": {
-          "variants": {
-            "red": "c05543",
-            "green": "2f5230",
-            "blue": "0d507b"
-          },
-          "defaultVariant": "green",
-          "state": "ENABLED"
-        },
-        "fib-algo": {
-          "variants": {
-            "recursive": "recursive",
-            "memo": "memo",
-            "loop": "loop",
-            "binet": "binet"
-          },
-          "defaultVariant": "recursive",
-          "state": "ENABLED",
-          "targeting": {
+  featureFlagSpec:
+    flags:
+      new-welcome-message:
+        state: ENABLED
+        variants:
+          'on': true
+          'off': false
+        defaultVariant: 'off'
+      hex-color:
+        variants:
+          red: c05543
+          green: 2f5230
+          blue: 0d507b
+        defaultVariant: green
+        state: ENABLED
+      fib-algo:
+        variants:
+          recursive: recursive
+          memo: memo
+          loop: loop
+          binet: binet
+        defaultVariant: recursive
+        state: ENABLED
+        targeting: |
+          {
             "if": [
               {
                 "in": ["@faas.com", {
@@ -41,6 +36,3 @@ spec:
               }, "binet", null
             ]
           }
-        }
-      }
-    }
