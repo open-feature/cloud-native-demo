@@ -36,7 +36,7 @@ spec:
           ]
         }
   
-        e8e19b6e-1d85-1347-8e44-9ecdca0d8cce:
+      e8e19b6e-1d85-1347-8e44-9ecdca0d8cce:
         state: ENABLED
         variants:
           on: true
