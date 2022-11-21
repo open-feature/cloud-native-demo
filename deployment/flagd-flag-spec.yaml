@@ -26,8 +26,7 @@ spec:
           binet: binet
         defaultVariant: recursive
         state: ENABLED
-        targeting: |
-          {
+        targeting: {
             "if": [
               {
                 "in": ["@faas.com", {
