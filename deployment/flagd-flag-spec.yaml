@@ -35,3 +35,6004 @@ spec:
             }, "binet", null
           ]
         }
+  
+        e8e19b6e-1d85-1347-8e44-9ecdca0d8cce:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      594a42cf-3864-95b9-1c6b-346eca865ee3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7cbcd2cf-7a96-597e-daa8-a100b8e9cf8e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      63174c2f-4295-272d-08b9-a3caea99fee4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      95d43ad3-5256-afa9-a8a2-cabd2b9a0d91:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dea40b40-d614-448f-892c-5bbe61a79849:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      35f39346-f4d4-17f5-7b8b-ebea746622d4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8ee5a55c-f233-c1f6-414f-4812968c9068:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ddb6aff2-ffcc-82ce-ef1e-6c2374c6a041:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      71a2ce50-2938-8d1b-7aff-1c0396d8cd12:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      72b02dde-b5d9-874c-b4f0-ae6a7afccd61:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6281ff94-f391-a049-894a-e3940eff691b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      59e79d4b-1869-0c26-7303-16f80d03f116:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      afae4c52-8a7f-263a-482e-2dec11d3d381:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      38b6c6ab-9586-d0b8-f69f-eea000c020db:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5d0c4f68-3e3a-265a-9deb-1eef66424264:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      67875a68-074a-a20d-ccea-02bc3822faf2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3505df9a-2efa-cc4c-230f-634e0a3fe5dc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9ac34888-c0af-9506-5176-736de5f3fdb7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8b86df12-f74b-18a5-36bf-300c33005f8b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      768fad5c-1c9a-6ddf-5258-81cdb1c7c355:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      eab620a0-4ebb-fce6-fef2-6b3ef9747270:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      551bf15d-020a-154b-df68-39241e68f4c7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8114ecc1-827b-bca0-0e9f-0dd896c1815d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      847dab63-2daa-d23f-1941-a48e6f16fe31:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6d2225ed-aa31-5038-2d9d-08d68a1974bd:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      eb9a7fd8-9b20-c5fa-ce63-bde9239fe17c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      754d7ba4-3c2a-fe85-1c00-144397090bda:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a369ee6b-1df3-de3e-cada-bd858d561300:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      805aefac-329d-15f0-9324-0517a93add32:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dd92a9b2-1c54-3fe6-6bb0-8d46e8fad697:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      275cd7db-5610-04fc-7398-f8830fb594bc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b0766d69-4640-30c1-279f-04e151843b2c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ebfd32e6-0beb-ffc5-f10c-a8acce7a51e8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      18ab0824-2f0f-d861-8dc7-79df5413fdd4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7a341b77-f262-f118-db48-5a378adcabf1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      76cf9401-28cb-b36b-d826-0e17307e174f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ff8a81d5-8aff-b2a7-74d8-ad88af842252:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c114c9d6-d7cf-53c8-586d-e75114a3bdfa:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ae96d54a-7006-e297-b3d7-999d0286a30b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      85a37040-73cc-b704-4b57-8a77086f6337:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ec1c90e7-b287-013d-9556-2d8a4d789493:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      76ef76af-de44-4265-ed4f-83ed77af136d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b77b4ae4-96e8-b916-9c28-e5c9a7e6ddd8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fa09b3c9-4c90-8fc0-af58-56cac88d2912:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0748b712-1245-3815-ea17-a6ae28320a2e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e3e977a7-35d3-5237-524c-4796839b76d5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1329bda0-76c2-e17d-4566-d68d8e258bef:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a5367913-76b7-d16d-bf7d-2581cc531c82:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      95dfd17f-1f31-6867-f39b-f487e4309923:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c32a10f2-2539-77d9-5339-fb0e27e88d69:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3ced3988-7d2f-ee0c-8ec0-e46e64cb602b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0777b652-e51b-e11e-4914-42290289f2ab:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d868ba6c-c1cb-865b-6560-789ee24fae17:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dc593600-f0e2-1b05-c579-3cde82240dad:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7550763f-6997-2214-338d-bb65b078a62b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8d7b989c-0071-b693-a522-123ef7b339a2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6b87594a-f8a7-64e0-6aa7-1461044ef4d2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      89fd035c-8d22-afa5-fba4-833da73d1a0b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6dba2cff-34ff-ac5d-a0ff-221a4ada555e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0c9f080d-f531-cc4a-cee9-671c18584d23:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7b5b6fd1-b454-70de-ce7f-e1aec744e3e0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      90f8872a-e615-1276-204f-366324836883:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      88c90eaf-606a-2950-49d0-10ce5d63b3eb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6127be65-bb1c-616c-558f-b4a159c5ec43:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2f9a41b5-181e-a99d-baec-b68a64183caf:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5b3c3d8a-d68b-6342-1229-4e123ec58b8f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6c9555cc-ea70-fda9-33da-65697b8cb520:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0cd40061-6eb5-9f98-987a-7431d34b8c6c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5304b623-17b0-e783-0613-838edaa8a451:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fb81e0fe-ba19-ac80-ad4d-3406deb353b3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f5df1980-7cb8-a4c2-d000-df46153dbb90:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e46edc70-6045-6f26-3606-af36f72e5efc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      68a32e5a-8057-fa5a-bc60-ed4d376f0f4f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7a9a8cad-5639-d015-9439-87289a5da731:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      95b06b09-7ce1-4822-55a9-3a62bd59cee2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a46cc7b1-47ba-9b66-6f74-b143e69710cc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9a7bfbec-b5af-21df-f37d-54de5978965c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2b5a2d1e-aa76-a95c-c6e8-100cf782df22:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f1109bc9-2b5f-6047-4998-40a71f54c883:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e5d8dfca-ebd9-a4e0-8c3e-cfaa11c5725d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6e519ad6-3e24-79fd-270a-e44ccd79d7ce:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      20f74faa-16cc-9c75-ccbe-4fc9bcf06a7b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2a1f7cd6-07ed-775e-cddb-d1e89e92543e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0c04520e-5864-1bb4-b8ac-feb46490ad1b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d59a8f24-8414-d6fa-f59e-2dcb539b91a4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2e3e0c0f-e802-996e-5b82-4e05ce33363a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      36e7eeeb-6990-c920-5e57-c5be77253a73:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      06de8346-d4d2-f012-f908-b04f84a9a908:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      94e759b0-9b35-5e1e-5c2d-2aa7afe5631f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      00089e00-ddce-a675-3eae-b2dc157556f5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      786237ee-83a6-9f80-e0de-82f7fdb30cd7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8b10db7f-4b6c-6395-5240-a3ea5f326d28:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b346df17-4ebe-5b59-5048-35973dc26b8b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ac5feaa3-fae0-5b64-7114-76ac51f74513:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5def5bef-36e1-d022-f840-56ae78c9167c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b1ff6164-dae0-f29a-f91e-ad0e110394ae:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      336ee18f-f410-bd28-582b-191e7384c6fe:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      339939b7-f209-547e-e8ad-7cff640abc63:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c515765f-748f-0b23-ff38-2e0bc7dcf11b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1b5db839-67c3-fbef-65a2-4c204adf998e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a81b12f4-81d9-3cf8-3632-b28f4095f5d4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d79f614f-1fba-0c08-4763-a8b0bd91c9c0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      570541fa-52b1-fff9-74c4-c98c3c6b37c4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      57e92278-2b01-7f91-0f92-e11c60ac5a64:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e04dcd93-61cd-69f7-8f86-a1cdad1214dd:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      16df4ce5-76e6-030a-b9a2-0efe05d69f49:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0cc40d05-53de-9ec5-54c5-d1508f0171e7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      53c03408-3613-79bf-34be-50b44d7480f1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      41f6826b-6698-f50f-1356-f8cdd4a376bf:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ab2dedf8-d31e-692c-5e63-ddde3780693d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d2883c1a-20fe-0d88-223e-9a18e418e498:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9a8d6ff1-7609-b7ea-acbd-b904c9459c6d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4c63b7b8-2b9b-fa9e-d986-8bfd9d7e3085:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d101cd5e-ed84-7285-50c8-ef3cbfeef78f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      854c9829-53b7-cafc-71e3-711e5208b423:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      37070a8c-df49-063d-eca7-441c30d310f0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f26e8179-9276-68e4-4019-b3b0bf07d1bd:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      134ce902-0331-ac8e-1dd5-e1d08bc237ac:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7110f887-6682-ca88-6593-661edb270850:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      69036fca-e60d-ddd8-faf6-9396ab8c33d9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f9f90bbd-c505-bd12-457a-2cbe0720b686:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6e4cff6a-d2be-220d-cb8f-baa74ab1463d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f91b5264-7b38-d4a5-0cbb-73ee90187318:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dd160c41-1034-71fb-5893-0339a58eda63:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b4f3a07e-6da3-c05d-104d-b63a439f9f44:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bdf7be48-ebc9-d0b6-b168-cfb972ceca62:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      86a59d54-a258-f2fe-e82b-ccd9b448ecfc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ff81d224-7dd5-6902-6725-a4e86581ad1a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      460e5b55-6b9c-20f6-df06-343baf2d3d07:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9ba7b08c-b278-78da-c2b3-dcb510446696:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8a833a51-69b9-5357-3c7e-e787fe710813:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bd57f3b4-280f-a756-d011-e647f2103514:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      96bd7810-3956-7157-b99d-780cee52596f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      408cb3ff-572b-05ee-0ab3-d1cf9f14b379:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      eadf382f-b9ca-a256-bb32-e167c7ff175c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a02f50a9-6347-72be-277b-53745942959b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6edbbf34-faf6-ff06-1d52-be0dadb64fc6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dd11d186-6acb-75ae-0bea-35f4fc6d169e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d7129579-96c0-fa9d-090c-2433a9bfe677:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9f879d1b-c8d0-c490-2e3e-60d417e91b61:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3dba2c81-83af-f2a0-e8ca-5a8475ea1b54:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      db14da84-37ab-766c-f728-90a6ae5661d2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      77c7e85d-2574-5fea-242e-07ff21d84edd:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6607eddb-1c8e-6606-8c67-29f814edff30:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      681a22f2-bc72-88d4-a84c-3abc10f348c9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f2c48650-7daa-4690-cac4-11b3f03cbe2e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9faf9e08-73ce-cd66-9940-cfd2a062cd86:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      510f4b44-ffd1-0558-1524-7774f87aed6e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9e7b9157-5358-7407-cd1c-ee853832c9f1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c62af0db-c7b0-a7ab-fe9b-e0f58f68647f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3db3ed99-cc40-4829-39ff-6f750a732671:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5b4d4af5-e2f1-1325-3799-4005e2320969:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5217053f-731e-a9fa-7dce-f2b8172c8293:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      359ce4c1-7dde-fa4f-a4d8-67dfb29d40e0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0029e709-e27c-8b65-01c7-3088062bb4f3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7c8912bf-bb94-d394-637d-26e47aeee916:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      cbd19269-5841-2e2d-81c4-8e6bdb176ff7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d66e8f3a-8cd3-8571-c41b-ec85b1099b16:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      022e31aa-3a79-cfba-c20c-52f66648a57e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      aa825ffe-0ff7-82c7-1c83-2b9a7e91bc9e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c59503ba-002b-9798-8acc-310c7f4d78fe:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c8715cd8-8593-9e08-87d7-8b3a9e5ac802:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      57abed37-bc4f-1d04-ae8d-76e0232e15c2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5328f991-a136-8622-45b6-3cb58893c543:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e4392fec-581b-190d-ec9d-f9624ab6be27:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      19bb9c3f-204e-f239-f179-3ee8cab580bb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ec9e5171-ac33-98c1-9807-28e189dd998d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      525fdb43-1bc8-3f6a-2fbe-45701d882918:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3a2274d5-70bf-49d7-19f6-6c098ba06983:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6d93204e-e943-af8f-ce8c-1880d5de10a0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a8402715-f20f-5f65-8990-72a060e8ed71:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0e9b1d18-bb26-a346-cd18-7e52ac70b14b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d9940283-c24d-0ce6-e29d-67057ce54a12:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      11cd8763-3ceb-7447-86a0-e65a769f4bb6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a7bbe8ef-3d97-af4c-da39-bc583df4c9b0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e84bfe69-852f-78e4-f86a-ff39d6e2312b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0e24dc23-9220-4db3-8c49-007573c61da8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6768e014-60aa-fe23-fb44-51e89254b743:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c7fa36a0-7cf4-04d3-b14c-e64fecee1a36:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1ea41fab-c3b1-d5fe-ff18-b5849a410ed3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d6268f68-277f-04f5-43b1-d92d23a68279:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c581ed76-d308-a2b8-5962-6858d7729d52:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b149a130-3379-dd39-9ccf-7ed94dbf3de4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fdcc4ac2-4d2f-ca41-0afc-3b90730f5e30:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8d0b9cad-0b94-22f8-2467-8cc7eb479a30:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      040da3ee-247e-4aaa-56a9-2fb213555e6b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      98a7592e-d93d-f0d9-7c70-87adbeb7256a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8b7234b1-50b2-7c4a-9fb9-f6f0c4f1ac8c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1535aa57-9783-130c-0a3a-7050e6166333:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      85369720-cb45-4507-0db3-9a33dcf59cc3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d77d4475-539d-c495-f4e8-0ee20022ba1b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d5eee440-7926-e496-2dc2-7edb2f3218f8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      50d42a4c-f3a0-f751-762b-d95a98c2d775:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d00df087-c168-5a4f-99cf-324f97af47b8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bebe9e98-3469-d3e2-c9af-451c8605d325:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      24307f33-a7b4-a550-09b7-df086e79f70d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f40be124-e01d-ada3-c467-920b7db5a675:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4747a0ca-1d94-a24b-4b84-bb0ff230645e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2044a400-3ff5-425e-98f9-9f1d04a55f90:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9f8cc4f9-542a-840b-e135-158da89b9e56:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8d6c9504-392b-c525-271e-2ddc9a5ee386:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2435b14c-04c8-0973-58c2-f480a75d824f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b8675284-f48d-605a-dc13-9a875f1a03dc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      26b91530-6d88-be7b-32e8-796119e8f541:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7e81ec48-496c-539f-f545-ec382d8c9217:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      807b2667-29db-c1b4-4957-4ff89e52503a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ad5a4f01-d6ca-abd5-fb78-d3eaa9dd592c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      341f297b-d400-1ff1-62e6-22c872f81c0c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      423b2d27-2c23-ac44-7a31-4b9a82bf845b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      25b3a692-7b98-a41e-9193-857cd1d5744a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a4fcd6cd-38ae-caf9-d89d-2a442360ba79:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d5a00e9c-7140-6598-8983-223722ac8fee:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      87636999-88c0-9efe-9cb1-974984f44731:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8175d5a5-daef-0a1a-2322-77c7e020541d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b270eb73-dda3-6f61-537c-8ddaa1e9ffa3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      389f4fca-d944-ff5f-7fb2-4e14e42ef344:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c43c2b27-236f-6ac2-ee8f-60ed8893e398:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e214a337-64ec-a22a-6b34-256e0227b2d8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b3322d28-780d-44ce-2440-44d64a598859:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5e9d8d0e-2cf0-b079-db28-a35a10af9dc3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      737ea09d-ef8b-2192-ca80-bbd16d802cc4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      41eb749e-a8bd-3fc1-c8ea-73ad59dd06ab:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9d552c2f-914c-2d23-677d-bcf18ba42ce9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2167af3d-16d7-ed18-8f4e-55f7cb7e0269:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bf756d81-0426-ceff-077d-7c0ea223055b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d297cae3-72aa-0055-8683-fb87fa5ec930:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bba72d7c-0403-b81b-fb37-8d8df01ee1e4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      58abb166-a55c-95b4-3ad0-615cc16e0784:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fec05492-030d-86da-36db-7ec44e7bc87f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      76639459-76b2-8794-0a80-c797c22d5b8f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0ea3aed9-eaf2-9334-a2a5-57401a485471:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a8c40280-0356-9a0a-aad3-a7c8d9721d8c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0bc4b5f5-7c9e-1089-0f8a-805fba401d53:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d0db8c50-62c9-3467-d691-cd2c855a0d21:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      eecbb6f6-73bb-1d9f-e3bf-fc87575bdb06:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      009ec78d-5e17-33b3-ecf1-9e2c1771b915:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ef73cc08-9e74-6059-dc96-a31b03c3c1c9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f9632ba6-9287-4b9d-1192-3f54e0321442:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      45e733fb-32e5-7504-da32-c9d8fc3bfa38:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3d4de83f-eaa0-0cfd-022d-12978f632927:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      95cc0f2a-d67e-5893-88aa-1e5c429dbba8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      923b7db4-6bb3-2e31-fb75-4ba74be9968a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c088857f-f8d2-d399-21c2-5502c3446579:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      562ec445-0f51-1dfb-d870-0f427617c00a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      09a846bc-e3da-d694-9ebe-82ee9a9e6b21:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      34ecc52b-fce1-5de0-4e57-9a275ded6d31:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3f3422a0-e753-ce6e-f495-1f0f45477c34:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      313575e1-0289-3216-057e-2bb4ac223974:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2cb5616a-8383-7dc4-30da-69b16aa578e1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5e9c5633-a600-069f-b332-22062365833d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      46adf609-0283-b8b2-2261-b8488bbd781c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      794bfd90-7b0c-33b5-7d36-e5018de37786:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      307b3d9c-31d3-4dda-0e36-75fb4684a0cc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c62a03aa-d12b-87e5-b355-0041746fc765:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0499e09a-0166-8eb8-77d5-31cb531d25aa:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4c1d7222-2008-28d4-2e8c-910080e06e48:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ccdfbc00-369b-3449-f9e1-5616190e9fb4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      870b75ac-44f6-5003-090b-64f2a8995110:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ee2f0eac-10b4-e710-8a56-5e643095690e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ea145ee8-bd62-77bf-7842-95fef8ea28d1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      58d526d2-be36-529a-e8e4-c7ee22c181dc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      701b6685-426d-3cb8-c8e2-e39d2b1cfcd0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f7ea8405-3ab1-4dcf-587b-3a80c6f7fdd2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      46533eed-7827-839b-512e-eae378458bfa:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b9e0992f-903d-7946-9ebf-247505113cf8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c7d470c7-a332-8392-6d65-65676e032984:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      64edc46e-e347-4067-3674-c0f96ab73fe2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2767d357-913d-ebf7-6b08-639fa2e41d87:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6d6eedda-63d0-0463-6ace-73eb7329f17a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0e3a9912-ac82-35f5-ceed-92c7d8238c98:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      46e854fe-7407-62d1-bd5e-601e4a1e63cd:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7dfe6470-c5f1-b362-1272-5907c3ec66bd:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9298578d-4bfe-740b-ebcc-584569dfe682:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9e055613-b258-7335-b991-2d6ac33efc38:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      91d2d4db-5866-adfd-9801-95310da06e64:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      79b761ed-2b70-4313-150c-8963b102c720:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f20b7a71-5a2b-24e4-d3f8-77e5541cd50c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      54fde6d4-bf06-2786-a5a1-4d9f60881a6f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      699a04a5-7f27-52c5-f0d5-c9cf9ab14ccc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      96f998e2-e12a-a875-6cc2-ac0c68723ef3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c59f2a12-a54e-6372-cb6d-11d7e302b149:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4c7328a1-eccc-8b2c-5ce2-e20bbc1e53f9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      909517e2-4982-70af-a999-6379d77f077c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a5f22c32-9cd0-4097-77f2-d689b7dade04:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b9c4986d-9bed-6b03-c9b2-9d1944565f2b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      20f84011-0d90-5c0d-f088-56828533255d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dcd3a5a4-1ffc-dcb8-14ca-fec4e9cab625:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ae91bfc7-96dc-e582-d930-c227790f674e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e78c1b91-3736-ba10-065e-2e700b49e2c5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      91d78260-3c47-0d81-ddc3-2d008c4b3b86:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      409c84e9-e28a-231b-21c1-9b12efa55f59:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fab6ff2f-ce0f-6e5f-1ebc-009a0237bbdc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4104a7f6-2574-90fc-25bb-d77f1f0a1603:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3ce698bd-76a4-3abd-7abf-247b3b46f4c8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      781c69da-2d1c-9ce8-7d87-fa140677dfee:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      51993a76-11f8-ec37-d25f-ffff79f06a1c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      67c68692-8f70-40ec-5e9d-6284f1abc038:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      240bc8d0-93ac-1177-f848-25f2b8f0205a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a0eab987-59bf-c63e-326f-76e913d784ba:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      84209b74-4384-79e2-17d7-67c1398f97c4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      28940503-2b04-2cca-6c66-34b2e9d3e58d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      484c9083-438a-20e9-44ee-47681eb9a9c4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f3eb1ce4-931e-d057-6b48-3e258b38fb20:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3b14bd27-edf6-b75a-2753-313895cdeeaf:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d7aedfb9-7d9d-3dda-7992-50ef62f14ed1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      cf0f164d-68d1-5bee-ac39-5cade67c96cd:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      aa5dc880-30e1-3234-682e-8ccec0138645:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dd0ac6ed-6aa1-c3ef-c9a6-532f1119c51f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1c16af68-8db3-f358-5410-5bea5f065b10:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      261f40e5-7428-4b26-d16c-0aa238353a71:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c460cd4c-a8f6-b014-eca4-469fb46af585:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fe12fe4d-e66d-0f1e-ddb8-ab9d999f0391:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8177e978-593b-98d9-6013-8477ba6cf433:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2af7faa5-ab00-4015-ddfe-06133091a7d8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c553adbf-5375-f72b-9c9b-8d4805f66efb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9f787ea7-eccc-b13a-a6c0-6889a6f54004:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dd07402a-edbd-f2c4-837c-941f6670fd26:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      11ffa014-732b-a699-456b-17250d377345:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      87f7fa56-e3c4-446b-541d-8c3fe311495b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a07b3a3b-943f-868e-3ca4-5ef7f3c6954c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1c6d9db5-f78c-d872-d21d-917e2d7c5eef:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      296d3292-5777-be49-2af5-1127c03260fd:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6997496e-6745-0a3f-13bb-96748c87ff27:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7621ae6e-d13d-1276-17a0-9f060d690328:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      74791b4d-10ea-cc2f-1f00-3a8e86aff85d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4d7a64e1-84a9-419e-9f68-552e41dddaf9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      733d8cf9-2ba6-4fa8-b731-80129234ad46:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      040cc08f-ca7a-8176-40fa-f47161534bcb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f815d288-e604-b05f-cc09-84d8a394fc52:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c3cb0c07-9f7f-0953-2201-8e7af3b2dc72:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      774a9585-7741-8c01-ce9c-d5e787b3f371:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      238ce829-9214-eb39-0f6f-03977b0e6f0b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3a4cc5c7-4633-34c3-9294-71d6853eff07:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7bdaa7f9-dbd9-7efe-c8b4-ca95f57ce2f5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1a3bc893-3d15-5485-a7a7-3d7431b13f25:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      833ec3b0-15ab-5b2a-010a-c9460136b8e8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7d2a5e42-6753-3289-e29b-145220c2549a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f3dd564c-1e5d-c254-bf1a-c18829dfc3c2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0a2d63be-0a27-059b-3e8d-57c6cd4cc21c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5746b619-599a-ffa3-ce06-ed2f022164bf:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      09021544-8414-f362-a9ea-74e1da6db810:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      249f4036-cbd2-50e2-335f-13c75b79b7a3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9db723c5-edfe-7903-1309-24cebacb97b7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f8936504-2487-56d3-8de0-b761bb2535d8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      68c46c04-300a-d252-2f03-cc78aa6dd075:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dad9be06-227e-fd48-4fd2-d3c8782a5d94:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d8bed0b1-ea29-5365-312b-d87d38b2c351:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bc49d5ce-1e14-a3a7-4718-16d63a45a235:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5e35c32e-4995-cdbf-f4c4-161983cf1773:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5dddc7c1-b086-dcd4-7479-609cbdd18c91:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a866ac53-7d8f-6133-8c5d-4b8edd606b51:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f645430d-421d-f77d-6c67-e6e642482e0a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4d8181fe-75ea-aece-465f-b77bce95aaee:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7d83fc92-4db3-0366-6788-e54f80d37b72:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8dd13fde-7604-bf41-fce6-4eed789c7d15:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      48b35cfd-8bfa-5acb-f2e6-8f2551531feb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e3837591-3d5d-49ac-4dfe-2a0271f20607:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      cf4ce460-6af4-b40e-15ce-aaf39b7cafda:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      92019c7d-5341-4928-9faa-43477fa55c96:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ab5b55f1-7e37-22d9-9aab-aa43a65af3ca:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9e7beafc-9902-7471-fa08-bcea6b01ddb6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ac99d7a8-083e-4b3b-1742-a118365d25a8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d8cc9fee-27a2-7314-0766-6fff258d7b9b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      763f07e9-ff6d-c6b0-f2b8-78f433ba98c9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6a8cb082-ecf9-8eb2-60ff-c5b8ab3e8558:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d7062e21-46f9-4ed5-da4a-3168d0efe72e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8f92d33b-5cc7-5983-3c42-8bd13bf733ba:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      acf92f84-d28a-0d45-763b-838fd179af24:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e5cd3a17-f0c2-095f-73da-b2ae3abeec7e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      142f837a-b347-5876-2524-b9ba94c45637:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e1900109-faae-6ab8-4d8d-afc892c57873:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c3aae7fd-bd0b-1548-b8ee-e3666d5be011:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c76029fa-9249-d15b-5d45-2e9b4328ce77:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dd5dcd0a-a890-449b-b0b9-357d3d54128e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3b584a05-1902-ea53-55c7-b27ec5f000cc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5bd50633-1cbe-a516-7bfa-cd66cdb14c8a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d9e82cef-66b4-33ec-27b0-5198f0620ea4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      206f2900-c865-52e8-6afe-e06e0f4e74d0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      feb92a9c-45c8-c2d7-2ecd-c3d942997f3f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      31455f1d-b693-76b9-67f0-19d7c293fb45:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6d3b1b61-cb2f-cb14-b389-c56b9f8051f3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f2d54452-fb20-3cbc-ba90-b1a007bdcc4b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      114cd049-fa7d-e72d-9d04-8deec5af6d20:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2129b6f5-e83c-3c0a-9b98-d15d3b0eb5fc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c1cefb27-118f-4a1e-4050-7667c595f9f3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e1b306b7-b880-889a-6f7c-6ea9a9a00cf7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      45aea809-5bd7-8211-43bb-26a68910f0ac:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f0ee34c0-91a1-d2dd-3811-e48ff5ad4960:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6dbc8dbd-115d-0d26-9b91-6bf854b54d4c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1ecaceb9-c46d-c0f9-63ce-ad37eb5ec7af:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      50f933ad-fea8-a8e9-572b-1035c1652a36:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0d4ca601-8308-3384-cf61-e7f175fce43a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2bb89083-53ed-4161-6604-ff4c9303eaac:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b942710b-b352-069d-e522-c8ed8e526a64:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      91086043-32e1-d38c-452f-cce2a8a4ff4b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      79b99f1c-f276-51cf-4105-4ffe1e2c9a5d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1b169e42-9ad7-df00-65e3-1c53ef2eb1ca:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3547ad39-31ad-0822-ff5b-8f16d36b9311:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4e71b08a-ad99-1302-64c0-aeab6fd98f0f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      32c7f545-7eea-f984-d661-1d0550ea4e9e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      cd4a02da-41c7-c005-a4bb-76860d0032a2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0427ac29-855e-e6a0-581e-fc16383d4c21:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      da5218a6-d2cb-086b-38a3-645ea04e732d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      109e6350-c2b8-bea6-893c-a487c89fb56f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      de19095d-de8d-b7c1-382a-a1408c2b0da8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c1f614c9-1d44-3d72-f5f8-5a9980007e6f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c8e9d287-4e8a-24d3-bd18-88709d529be7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1ff0e7c6-0e57-5bd9-ecc6-04600a6a92b0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2efc9c61-ebed-e8d7-3f4c-7ede63a8e8d8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a4eabec7-ed4b-1613-22cd-b10fed554145:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      49f8a316-e4f7-b513-f64f-097f11950250:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c55c30f0-c6fa-1a21-4595-069e648dd384:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6541d11c-6ffc-7321-c39b-239805b40c99:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      32539e92-a41c-5009-e0f9-053d127ba973:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      993ebb26-bc90-69ea-2195-77e800ed57f4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1b093135-d2df-f9c9-b0f5-aba502ce7ec7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1a64830d-5d6d-0370-16ca-98a8f92a34f7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f852e356-bf7f-6070-e080-bee21c157472:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c9d1abeb-e085-3a1c-5baf-c85d3cf7508e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a91d37da-cb75-87d6-9e14-9f2799f5207e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      312c739a-5b0b-3b91-f39b-2408d23f66b2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      769ce8aa-c66f-7495-74b6-6260ba6aea81:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1f162c28-881d-7eaa-0a74-ca4560875eff:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      249433fe-053d-1526-ff64-bb7c191ae781:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      23267499-2a33-22e3-feff-e70d17896667:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      717b25ed-115c-d263-10e1-d800239e3edf:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      08d8215d-8707-e8ac-bad3-e343f4a1917a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c602da72-e423-9005-28de-a1e510be3584:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      661f8fbf-7a93-b8e0-2505-b661c0e3ae50:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      caaf5122-7839-b8de-490e-ee93fd3a0bc3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6d5fdd79-29d0-0ba6-e671-2e1b151bc442:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      472d7d8b-b9f7-5cb4-9145-6e63aba8d440:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      073dccf7-928f-e8f6-45ff-8e044e2730b9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      02ab1688-70f0-5db1-1638-ab9487dca01f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      98b4a9fc-ae11-7298-a633-57eb7a3813c0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      45516cdb-6b2a-1c95-7be0-85d45a5ffc9e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9e5138a1-05d5-1aae-988e-46732d494f5c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      207f0462-3995-e014-b80b-404022969c44:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f05416ff-3415-de36-af19-52c2db781d6f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b3556dec-e5a1-d99a-5aab-3e276294f4a0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6f832c7b-324c-cfaf-f346-bf38debc75d9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6abdf42a-f84a-bcb2-12b2-96b57fa68685:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      cfedbca4-283f-83ca-79dc-8b5f8c515dc5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a87a69cc-bf66-5a9c-ac70-97bf346ecc03:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      efde2ae1-e074-05c4-fb0f-fd590731d535:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d9348af4-03f9-0b3b-2fa0-ca118fffebd7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      671e9fd0-5f5d-d128-9be5-977eabf36c93:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      aa8fde1a-8be6-db6f-a78a-87c10e499b85:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      659616e0-46e5-df8f-d42f-4d9826d92a7b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      29248962-fee5-ba88-d13e-275cf0ccb727:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      91819f9a-a70b-881a-96f9-e73c972043d6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ec12a1f5-908c-94dd-bc39-2788a7bb2ebe:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      447a2ee8-0671-8b9f-38d5-99156f42f5cc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a096ccc1-84f0-7563-ce5f-6da8d390e127:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f7016302-2f6f-ce82-e9f9-ccf09903cb3e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1064013a-9784-50c2-0da6-4ef2102ef262:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d5de5f91-4fea-e295-ce16-ef5efdc922cd:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      feb092b4-eae4-1516-bfbb-293c06489a52:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ffca085e-1f17-cbd5-fd6a-7862f8875a2d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      14ccd0e5-4e99-ecfc-83b1-0b6a73bba093:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e10b679a-6c60-a2df-aaa6-ec12259498d4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4819b156-36a9-46f4-ed0c-db8d65660377:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9389c312-f6fb-be24-7774-5c343297393c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1678ae13-fc55-3301-5d96-a9f773f27287:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0b103c3b-af4b-c6a8-a2e3-7a0ac239cba1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4fdcc70c-1cb9-0b74-80db-ce3a2e0b7622:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3b810e85-b47f-73e8-121f-33eac6296c37:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f8fe053c-269c-7079-ba75-df5859730776:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      15bcc089-b133-b1a1-e482-8e3e82ea06a4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      20b143cc-ec5b-4f18-cb60-ed96a0b9fe2b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6bd59502-ad6b-182c-3da5-b1cceff91692:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1987b917-df0d-d4f1-7b16-597e55215556:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0038aec1-1acd-d225-60c3-53b6002e0b52:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fc65e473-a334-515e-2f86-cc8ec2f0d1d5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1ea7ceee-7846-3314-b2aa-4a2d03934eef:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4e3d9af9-67ba-ae9f-cefe-ee4cf029b920:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5e73a045-a12b-af2c-ed29-ed3932d62a5f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8b0c5df8-7e80-c89f-4283-86fdf23ac597:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7abb3708-fc5f-6ece-146c-79b19be359c9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      aac1b31d-d201-2841-02d4-8ea1661f43d5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      76038275-12aa-d06f-118b-2faaea3b1be5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      08c6483c-bf50-8419-2593-2fe9b20169a5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      633e5d89-4496-7f60-613f-97a6ac0a37f6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5756063b-3adc-21fa-4605-801bded1197c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b3a8e7e6-88bd-e7b1-702d-82581aa6b255:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      08d57a04-3352-0ec3-7857-6896bad6359e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      78ddac2c-87fd-9188-6cf3-5aca82591b6d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      39d6e784-1bfb-52bf-9d77-857ccba3523b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      080ca8c9-c635-79c6-fd76-4609d118a2e8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4615e8b9-7684-ce62-cd4e-b3812c220aa3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0bcbbf12-4437-34c3-de29-9d8881f61c6a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5f27fc95-27ff-bece-2775-0c46dfb952f6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      23aabd74-04ad-29be-5ee6-ccb6d9c7e5ba:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6595e8be-3d23-efdf-7e17-e36d2044501a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      42e26535-dc20-76de-2fca-4b5bf3aece05:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d11a098d-9566-4bf5-9f05-97eab0fa2ee1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      69deec24-fd6d-0465-3875-97258f20cc22:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1fc5d7de-a92f-4b86-8642-78b4dd43d6ff:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      818e2455-27eb-5a39-f7ef-e9f7fbeb2f14:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dbafe982-79c2-1d14-88ae-d0ef143bfc2a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bb4a49eb-7352-0a29-eeb6-80ad05b3292a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2e644fc9-b5f9-6eb9-070b-2c135d4ea4e2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      798221a1-7566-ae48-e711-b6b3b7c1551e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      692cfdb2-efca-f8b3-8f81-76b986ad3d3f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b7e8dd45-279c-52b4-05d0-72482bd1a1b3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2bcd41ed-8431-3629-c14b-817353a94d47:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4871ce9b-cc05-b808-93f1-82f687966d22:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5ad018b4-f9a6-bdbc-4525-d2b47d8e3602:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f38fcf32-83c1-f765-cbcf-7b8490b959b2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f88ba9f6-b316-2883-6627-c3a9c5a3754f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5eaf26fe-5f7a-85ea-d77b-e61b8b2dbf1c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1b4a5226-776d-ddaf-a5eb-3bab4e9b8b3c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      faaa69be-e558-58a5-05f6-deaa43aa1d47:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9b4e4007-467f-7def-48e2-7758f410435b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      540696c3-4890-9c46-b079-438c58e2706f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      62c6627c-c78e-0df2-9e05-d9e04ccf865a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b9185168-9b9e-0b58-68ae-8762366abb7d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ecd7c2fb-0e3f-d570-1bfa-e5dc1ff11658:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0494d645-a1a7-6c89-4024-933ab66e61a3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2613196c-2657-e953-ced5-2fe1e9115b3b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4d87bf3a-81ea-85ab-1e29-a89ef6dc2451:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fbe8d289-4198-d03d-ab6d-62c788aec9ae:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b1a4a7fd-dbfd-432e-23ea-7bcd2fb2abe6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3de5eb26-eb92-8a11-46d2-e238c1bb8195:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      561c6cc2-1d47-831a-6ac2-ff28e2ed87be:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      94f63d9d-bdc1-01a7-1030-b041062db244:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      515a7c55-73fc-4576-bda4-60c5c3254441:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8cb3834c-101f-78cb-e2f9-8f46c4c23f3a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6801e48e-94f2-1a90-64cc-d548d4ed6d49:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7502f0df-dae7-e6ce-429d-c2a29510b8f6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      774bf719-962d-3174-f666-b41306df87fb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9f7027ba-9731-f9c8-b5f8-ad8a4af20414:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5880543a-6229-c985-cc8a-2e0609aac754:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ce1fbcc5-40e6-8be4-f588-db8daf38a185:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      702e6b2b-38ae-6f6b-076b-2de62fd883df:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c81fc650-5d40-8694-65db-cdf02d8b800e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5828525e-04f4-4195-b66d-e1787190070e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      61a01a6e-3185-423f-e581-ccdd8493a83c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      28f94d0a-7a49-b951-2204-c676054db184:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9ba0e418-ae66-0055-0d67-44aef2697c0a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      646e6533-b4fa-09d5-291e-c1b9798a11e0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4ad6301f-631d-23e8-2316-52095125e086:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6f521815-a955-3034-f56c-343e0f191f2f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1757ffad-040b-e76e-5f02-6f92e035392f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1470df03-bbfc-6f3e-53bc-2c75f4ebc69f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1c32c9ab-55ff-512e-e2e1-fd503f392e80:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c3974df5-1c94-e7cf-5d78-ebe82d182f9d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9442b0b7-ad0a-6767-6d76-8089997a0287:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6f832c51-88f7-fe25-ab7b-91364f3df128:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      567ab85f-8c77-a078-5b11-db8958ba5656:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6dc880ba-c008-9403-74a1-46e98cf64edf:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b2692549-fd4a-cfdf-f085-02b0820d5f3f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      302d0112-b1ca-77fc-c9ff-a74f4f765283:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3fcb5d1c-bcf4-0c88-c5a7-995b25b23c9f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c49637ed-2ff1-770a-3f80-542dadfe81aa:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2ea468b9-f043-29db-50bb-4e593972f676:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6bafea87-e505-5126-7369-2a835e7a62a5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f80701e6-305f-016e-346f-cf608b933f8e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      76cf6268-423e-26a3-bb12-6811e54aa1e9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      52bcfd44-25dc-480d-aa1d-82988d01d17e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d34147e5-f167-3fbf-1e28-0bc2acd28365:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bc3e717b-8fdf-3d67-fa8d-93e13a481dc2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fa9f0aa1-ec3c-9628-18b4-8c801e9a35db:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9336a089-0e65-ab44-50e7-0e79e7000348:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      011823a2-0dad-69f8-98cd-e5d09b0dd1a5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      665d16fd-2c14-0e84-55e9-4cc084328671:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b409de9d-4adc-aba6-da2d-12f95728948b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      db000c26-e1b7-b3a7-4cf0-b93e83ddb9ef:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      864a8f64-6280-1c10-89b3-125d3ab69aee:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d995c088-8df6-dd01-02ce-935a016b91a5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      90dc0767-f011-7e7b-ee82-a261684be140:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      79d0eaba-4352-1845-0b50-b2539ffdf232:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0711943c-6668-8088-7597-73831a156847:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f7809906-187c-b7f0-009c-7f231b87a3b4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      cc71542e-b608-afe3-4eb3-2bd3fc82cea8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b4881852-070a-3aa7-07f6-7eaa005f5e79:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e5ce7382-72d8-7600-1b3b-67c438eed457:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      de69fd20-7eea-fb5a-dd26-50e5706ac533:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3c127fd7-8677-9e32-ff90-10950b8be019:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e065393d-b064-042f-ce68-adf845504bee:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      582755b2-2dab-a5ba-c743-a780bcb458ff:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2084b14d-b903-e727-5d27-51591b42c839:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4f0c7212-2739-df26-5f90-fd11f2972d78:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      30ef69e9-7ebe-697d-9fae-06d041caec5b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f5c49295-590b-a3c9-aaf2-b0323a420f24:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0a892beb-d59b-7095-5360-c5161a93f901:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      09900e02-000d-920f-ea2e-e83fd568af95:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9ce94ed6-9c3f-92f4-42ae-4ac956098a94:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9285df4e-7b4e-37d2-1f65-f2d038e4852b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0962400b-bf58-d5f2-26a2-3909aff94849:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e1aa6914-c821-6862-5f4b-f295fcba77b9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      aa0e3ef7-fe5f-c85d-f9c1-fadbb7264470:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0a2423d0-7bfa-14be-6ff1-f68ffbb5c4b2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c9227867-29d5-f6fe-699c-3e7ab538e01d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e42be4ee-ff84-af87-f697-a9682a0040b8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9c419a00-8032-d106-1597-ff4b0b13192b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      30eea6cc-1a16-9c5c-c5aa-d2df090ff9ea:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      db1edd50-938a-39a4-4c97-b310e3047af0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      30fdb9e6-c00c-3d63-21b6-e757d0d236e4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      324086bc-b5cb-c64b-9e7a-8abdf6efeace:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7a825b65-202f-e136-d54a-e383f43b483f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ea38406e-3596-c2a5-de7f-5ffb74d3e9f6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      21df25c9-ec72-075a-5b28-a7ad950e7ec8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5de95e20-77c8-21dd-a7e7-0058eb044dda:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e00f55b1-fd4a-06cc-dfdc-1c8a3ed65965:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3ca5e83e-69e8-f78b-1d19-737bdc09174e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2af48fa5-0407-db91-b8a8-28ad980791df:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fb08f058-4fa4-865f-9b46-91730878935b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      19e4f370-2548-7714-8d8a-8f68989e21ba:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      52db4bd5-ad39-c2e6-ee24-a60f23099f12:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f851d614-1705-f19b-27f6-532c1a914ec8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bde6710e-4aee-17a1-1aec-6daee9030f02:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      54918a62-9bf2-af96-381d-9118d366ee27:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a8550024-1656-efea-eb18-826a5b1985a2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      036964a3-864d-a9fa-08d1-455fad811b27:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5dd5152f-8518-6e73-361a-cdd163bdfe5e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9e100e83-0c49-e8d8-82d9-8e176453f35d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e6e97326-a1b8-000f-edb7-f8989e4516ef:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e31189b7-8635-1cde-341e-5dec6ae21484:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d349a4c3-a6a6-fa2a-eac2-905d791a1b9e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      04f27653-fded-f494-6223-f3cd66cbee03:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8e26a2e9-27af-1a23-a155-c5b7d6a0e079:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      384e35b2-d244-b2ea-c6f8-644be72b6ef4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      026a300b-1933-3148-0bc5-662a72039df8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      aaebec4a-64fd-42e7-d48f-84b491969859:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b81a12c1-d353-5b44-c74d-e3a70e86bc02:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e1544e52-5919-1ad8-efcb-8360c93e7b6c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      462d38f5-dc10-2421-19dd-22d13bd5c77f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      901d28e8-e09f-92bf-3268-a880f1ac979e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b111f916-dade-7be2-ffcf-a6dc209281a3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      69d8163a-5a33-941c-c215-99679a88d629:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c12ae1c8-207a-6246-2694-090e912b5e72:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      16f4e0e1-eee0-4beb-37e9-629448bc32e1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      cd49ddd3-0264-307b-d2b1-405d6f5abae7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dc3660ee-8ff9-9e84-472f-8d55e92abe41:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9d947a7c-b168-caee-8989-195ede502642:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d3941273-9e8a-26ce-d27c-a1ae34ce99c3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      46e63da7-f131-4d13-b55c-ffd133fc90f4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b42203f3-0664-2eb4-61db-382939e7d746:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e60057fb-4f04-65b4-b2d5-ebd896f1a681:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4e60622c-77ab-ca71-0e4c-c575a6df8191:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      70f169bd-5874-994a-c3de-4b085d83a5a6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e999503c-d815-d93b-c4e5-ecba80fa6a42:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      89bcf3ad-fd72-1df7-3df2-459ef8e7effb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e715826b-553b-52cf-854a-814374196acf:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      71794825-c521-14d3-a605-6e3f9763d102:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b6e00799-90b0-ec11-d29b-47c66770700b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      01bbc41d-4b60-abb9-a6b6-d1f737367543:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7c97b147-b53b-0aa3-562d-bfcd2d711c79:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8bf9ecbf-75c2-c24c-86d6-1ff02b1a0c2d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2d4082f4-0667-e322-c577-ff49bfea0620:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9d71a206-2453-6b9b-3cea-651c5ba493f4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      db877326-db5b-430b-7cb4-1134069f1a6a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      70836ace-62d1-a8b3-019c-36f00ced3622:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3d82d577-6274-72d4-b887-6756a86b9927:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      636f8fc7-df02-b021-f9a2-a300246ef7cd:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      79e43c86-ccd4-2558-f450-891d168cda48:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bf105dba-f8ec-8d3d-4a47-e8beb588990e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e224b8d4-a505-611b-e515-7cf5d9044a08:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3ebc8c40-4bb0-d389-c6b4-ca437267f144:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      668b097e-1bef-1074-4fb3-855d801138eb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      09bcf45c-9db7-26cd-7ac4-ee549e26119d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5e201ec3-f676-bf1b-afe5-12838d7e44b0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a0ce0fc2-e27c-c0d1-3d77-b7ae139e23eb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f63ef18a-004c-bc5d-ef7a-23c428168ef9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      44db478a-63cb-f0e7-f562-efc72e3d239c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      32d9e1fc-e496-4ef8-f9d4-b47418f80bd3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f2c091ca-6cf9-389a-ba16-caa2d234c6d0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      44a2e318-ba1b-3932-5d9e-7a68f09271ee:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      456c04b3-7687-fbf8-226b-6c83426eb267:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      23a97fa8-1b1b-2f4d-cd13-7c03afc479f5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      92b8a9b8-e0d5-dbdf-2009-0c85177ca3bd:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fd6d0e70-e2bd-2d9c-4da5-8296e327e720:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      13b5d5dd-1a8e-6326-3d5c-bb9aebecd20b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a6742883-c751-c0fb-0f66-ccbc2ecfbca8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      77e7a3d0-79c1-a908-ab30-e76b399d0af4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7281cd47-c8b7-7654-19c2-8698e3c6e05f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      916b11a2-ffe8-3501-9abf-b62946c72d09:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b2b428a7-7139-96a3-8259-033e9ba696f2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6bc40359-b0a2-9859-69d3-41f0a51e669e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bf712549-5655-9dde-699b-3aa2f0239a68:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d8c5d029-2d32-3047-2014-ff9296024e96:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d22a9cc1-2bc9-4027-65d4-2b643f952e4f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      aa2da189-5432-4df3-fffb-79ad901627d8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      574985b0-fe02-f4f9-f8fd-1a6fe0e1cce5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a23be597-8dae-8530-ac3d-769e96b2fe7e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0560e311-4b6b-47bf-617e-dc612484cefa:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b6965b89-b44c-eab8-3603-8938ac38b5a6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      816e90f5-3b04-c755-ccb0-f309842ba583:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ab046ae7-f781-b97e-03ac-8aa4b7b0c3bc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a27c290b-756e-bc9f-ee84-022db7d4614a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ad7414c2-102a-88cf-2f92-2494699ab1d9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4c060b46-48b9-aac2-b7b3-1a7f6452753f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2f51cd09-b272-37b6-7d35-ead20a67c227:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e1b7390e-135e-14ec-4cb0-086d9ba16add:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      10bcefd9-7ef7-a053-b545-097248457f6f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c544e374-c3a6-bad1-64f2-79f334010bbc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      13785acb-09dd-d9bd-a649-4c5fb98b23e8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      81159022-09c4-e9d0-6de0-8714afb95038:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      becf1f1e-9104-51fa-5eca-cf6584b94099:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      084e2db5-4fd5-5364-aea1-3402b049b317:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e4b7b2f5-b2a4-32d5-c242-c4a858ef9d61:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f9136edc-8236-211b-769a-2969933c5235:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      107fb107-0e12-659c-38d1-9ae3eb973d9c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a844ec9d-e891-8394-0465-8b883a09eaeb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dd897b42-b2d0-7e30-ae99-b90dc7bc5ed7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1d508029-f030-2ced-25c4-cf244548d6dc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      140ee047-a4f1-9433-002a-2f5aa7a7b625:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6e9b2b6c-2cb1-2663-3cbb-dae1f6bae114:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ef918da7-bbab-c66a-e502-5168f1d7453a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2e40e1f5-e7f1-f3c0-aa45-2f880c61dc34:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7485b35a-536e-ea34-cc00-37d16a2940d1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      564f61b4-1388-4772-5a9a-7484453f6a75:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b71d549b-91ea-1258-4901-c7ae69140204:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      847d5365-b840-1860-d47f-08b4fc82f12a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a9e751f7-f198-961d-1ada-7006edf9cbf9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6209e88d-cc8b-fc5b-59ca-77f6f02b6d3f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      eb411182-4fda-0d3f-4702-2e0cb4e395c3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      54b159e0-cb0e-6cf1-aefa-cb03833381cb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1578925b-0941-d9ca-6cbc-3c7e63475a8c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3a41bd2c-9462-eac9-3478-fcee9b3d237f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e8e9a7cd-7ba9-1014-9417-000c19c0e4fb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      34a8f4d1-1ea0-4e8d-fe5f-8f950892ee25:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7821bcba-f64f-b817-4a08-5217280069d4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2299aa8c-0c4a-4798-a4b1-20f568118ef4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d7087a9f-5023-1a36-ef66-65426e5d5c29:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d47bb647-91e0-af7f-fee9-0641a8f1a8f7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bb2913e5-1ee6-8382-3e6c-1d1655c600c8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2c3f287b-c604-1292-4ea7-16d72ec0f3a1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      145d03f7-2b87-a953-2ea2-db86da2b241a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f1e85780-9a6d-36bc-535c-a562b295ac05:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ece7c5a7-95c3-9608-f10d-1202bad04894:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4f28ce8c-2ea1-440e-765c-9bcd5ce717f9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2e19ffda-71c8-b80e-d24d-e86637c8e75d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4b7242d6-ea0a-beb7-97c5-b1fe65656b21:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9efb05f9-107e-a22c-d4cb-bd72650e1ac5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      89f6808f-aa4b-8369-b3b1-467bca850044:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8c6b0ec3-f99a-2a0b-a0bd-154e4e2efcfa:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a482353e-3233-ac01-c447-c5b35ed102c4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      97de7da6-2013-e6dc-7875-8295c57e49d9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f5bab2a2-418d-96af-8319-01abde32b51f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4a696c84-55b9-bca4-35e8-7ced6e594e7b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      19d38900-70e4-9aff-9375-460c58f5431d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      76a2f991-631b-d569-52ad-2bb813fda745:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      018f2971-b4fb-0e92-2841-8963a6e918e7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a9684850-986a-d975-85c3-3ed74166c3d7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      869cf1ed-11da-6085-aab1-0cdc2a981337:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7917bd92-cdd9-53fc-0250-7d9416495bb2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b65f989b-db1d-6d1f-2ab1-6d70a01338bf:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      438250e1-b9f5-c459-f7e8-298296f12325:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6988b170-063d-82f8-2224-0e6baf9140f4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9936cd35-3402-c17e-852d-fc80c680541b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3c2f89b5-65fb-bc50-2262-5484ee2ec1b4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      18c28949-0340-eb5c-629a-f14698a518e1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f26514a5-4feb-778f-fb0f-39aa981cd649:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      551060d9-3850-92a0-c9c3-2f54fadf3a12:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9e6e39f4-8f44-d163-f465-8307289124f5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dd061ace-3557-5a28-4eb7-f88c8ac99012:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      00b2fad4-9daa-6d38-de1b-0e3768b6c34e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9c2aec4e-ced7-2622-c9f6-6e6578e343b0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7262e342-bc5c-2e7a-2915-7c68f881c779:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5c390179-292a-5a95-febf-d180bb6719f7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1d2211b9-87a1-0907-3775-e53d2a653031:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      80602d8b-5d06-224b-d4bc-b4df1baf71fb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8679af54-df0b-dda2-22bf-20f84399f977:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5d40f46d-6d85-56a0-6968-925ca72ab526:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8a0b485c-4cf2-7b85-1489-ac16b4fed7e8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      81fa3084-02ed-eb65-011e-1661b71c1133:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e46fed3c-ac5b-c04a-877d-61c3057680a5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d90f1c69-f0cc-92ca-9f29-466310395d81:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      81e52aa0-af12-4cf2-7a41-b4a502339417:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      61e30cc3-1b7a-e441-f0b0-c2eb28cf3fd4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      962c2145-4a92-2682-041f-092a586ec412:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fdd6b1dd-314d-71f9-1207-e75af655572e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1ef1be72-5606-076f-abdd-26024ebf7d03:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7cfcb1de-ee7a-728a-e1a1-3f5c5bad8be4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f4fa4171-1a2e-8776-08d6-380981ab7ef7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4de1b547-4e5f-7bd5-a555-568e5b7ad6cc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c92faa14-2cbf-b606-4fad-6f64a32d4de3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c81f0675-a351-c414-61a2-b27226f42c82:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      78eaba0b-1900-1e63-9e31-fb223631683e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5121b3a5-3de8-0d77-f8b6-2d4fe17c5350:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6fa97fcf-8cb5-4a20-1813-c3d76d63d315:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4e36898d-86d7-c34a-4816-74ded6d01f34:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d129817b-b15e-c5e7-2465-47fe55c05d95:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5925cc41-fe8c-c1f2-889b-2125b8c10743:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      15fc9ff3-382b-0724-c577-edb7e4bf560b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fc2403da-a112-bbea-577f-689a666eb09c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9229a402-622a-eb00-8792-ff5aec5973ca:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      967e1573-a889-a142-3905-f266b2f8cd48:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0987f757-2114-dc2e-3193-e0b36c6edabc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      cad186d1-93f7-051c-793a-549c1a439080:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      00758d1a-e6b0-e1bc-8ae8-eed71bdb453a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      45fab957-0175-96bf-dbd9-c9eafb0a2f26:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d5c79df0-4fe0-5149-252f-3750406f2696:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      42f82a74-2ec5-1fa3-3d83-cbbe8b94a858:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      25aec938-a84f-cc03-810a-052a9392fd4e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1d097df4-e2dc-7033-a81b-5cfe99fb8a9b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5cf3f82d-4fca-f5fc-902c-9e540c8d3af7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      26a5c1ff-397d-1556-0299-6143142868a3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b0622ba2-5962-0ade-b6af-9233bc2c5c80:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8e2989e4-1fc4-0d9a-b4e9-5d190b5210e9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ec7205bd-f1da-1933-44e6-8ab38643b48d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      54c73500-7b22-02a3-b985-d77b90efe059:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1f562f62-2307-55ed-40b7-84f9922eef67:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      63174434-1c37-d2dd-9445-ba7164bd5bdb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d8877d34-60da-6896-70c6-90d47239d33f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9a478396-5fec-ea7c-e396-f07652ef7a2c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8226f58e-ed3d-e859-6970-381435d13b38:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1e55a5af-d082-c0f0-fc51-af30fbc114cf:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e6ac245f-d7d8-bb84-a1fe-da1c76f6b144:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      10faaf16-1ac7-4b74-9e1f-42a8e1547408:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d2e4ccea-3c50-6d84-3369-7d083fdfd592:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      aeb04e5b-e78d-1ad8-5ad1-f19a87e2f9f3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      06c4933b-68fd-163e-98db-6267c24e42b9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0b30b067-ef9b-d0d0-2434-94307649c42f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e29e876c-3dbe-4fcb-e175-bbfa9ae228d5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ec4d93af-84a1-b874-2ac8-f4fe7f76e29e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      361a3436-f69c-519c-88e1-24ac3276ade0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      61eb3439-d2b8-4475-a4a0-2e7b4a384a74:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      540d119f-4d96-8a95-dd24-11720027094c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      714716cc-17bd-7dc1-58c4-abf25b47bd0c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1f424a37-9a32-bf78-edb4-26a3107fb003:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2fa71b4a-1407-4d83-02dd-2a225eaba10c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6a5cc0e8-7946-25be-b69f-3876b34bd58b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8ddf17f3-36f1-6842-f651-4bba8c59a7b9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9dd5188b-38a5-997e-9ecd-b92a9fb1701f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      68ecec88-af0b-7148-0465-4bce6a5bf310:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d70442f7-5109-fa41-a516-826ee136fa0f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c09ff660-ddac-549e-ba43-bc9b1b171f68:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      72f82ea2-327b-0643-09e7-a0d88abfc0f4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c78fdde5-4137-f7fd-191c-74b6a79abdab:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2e699e3a-a533-9d54-bcaf-a8657b94fde0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      241fedab-710f-a0a6-daf7-21c452cdb5d8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bbcdf67b-306a-5c0a-d27f-afbddcb86c88:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      418a5147-8190-0cec-29b8-39a5f6bdb140:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      864ffbdf-ac43-0510-91e4-7dffae87352c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      619454e5-8295-ef42-4f0e-9e817e723c78:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2f1505e3-3e32-6c1d-cb34-426912e3ace8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7b13e3ec-43f1-f723-9fb2-b790151b0038:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5fdd1f10-cdcd-adc4-e9d9-6d72e277b0fc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ba337576-cad2-d7bd-045f-1210f4593722:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2651adda-90a5-e078-e144-c5d55dff709b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c0562119-2db6-cbd8-c3ee-85b97c86687f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7aa230bf-0ef8-48d8-e7f1-e5d7b77e790e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f363ff94-f876-7bf8-98fb-24bf3ab16671:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      13949e16-3e5f-3006-b2c7-b473799cf307:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      451d1f73-2dac-2b39-a72f-8aa71f0fbe29:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3d93a43a-b853-41c9-365d-8bc05e406ea7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dfc14050-7cea-2afa-755a-abf7b573d3ca:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9a8d4299-ba5a-3047-4959-46b13c2b9409:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ecb3f5ee-99e3-1647-0658-0d1fa8bdef5d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a2d77cfd-f7a3-4f12-a120-138209f25aad:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4a4b3f62-1eb0-11e4-2abb-6dae3fbf120c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      92e6a8a6-414e-3ba9-6566-e9cb53540fea:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bec7d1ff-d8d9-81cb-6312-2580ca1f0aaf:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0fb1d4fa-bcb2-3913-5f80-3957aa5e000c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c0da9d3f-90c3-bc84-e893-dc6412c3c01d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a3e2f904-9bb9-f3e2-1399-f7256a655ffc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ab7983f7-6323-2a08-94c8-b00e17c5bad1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1682cd0c-0449-197f-9c01-b29b606a5e8e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      afeb324b-a728-4579-0c11-215a4ddabee6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      da9790e5-b7fa-c001-a86f-c61e9e10f5ed:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8c83ceb4-f1ce-9001-2a71-fe6b5d74476b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fe5c4c7d-886f-e61c-db53-28039afc700b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      05ae04e6-3ed8-6f23-729b-9e0e9b06e639:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2fb3b077-a72f-16ab-8f88-e772f54b87bd:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      369735c4-7791-47f3-cf3c-f6a8226b9beb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      22a5085a-f67c-800d-4714-60f7aff03f67:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d32f31a9-9de5-01de-7754-bb19a8f22c03:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      eeb4edfb-3417-8312-a02c-50755e3a3bab:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e9554168-484a-35bc-092f-8bc33b552968:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8dc0a3a3-3a5d-0251-1167-684b523ce80a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a8523c3d-b145-3b4a-2c4b-e7d64233642e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7defa226-15a7-f65f-122a-92a56593779d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      87db0177-50dd-e783-4c21-04129b6b01cf:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a017268b-61a4-f7da-cef3-06c7ca420120:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      31fc8a75-f386-ffcf-6a99-6a471ac0fd15:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bdb7c1f7-bb01-2a14-23a9-a28fb60a050f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a6f61c7c-c1cb-8f11-a21e-308f4f62daba:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      26ce9856-4482-2a1b-1187-e169553b20f0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dd44edbf-004f-cfe1-1ae1-0a32334f4c2c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      27032d15-40a2-5fd7-2712-d5c34e7a71f4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      931641b4-1162-10e2-1948-5c101f6e3dec:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      33bedf8c-4d6e-8f2a-97f7-1ecd90dfa30d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f463f20a-465b-31c6-e243-486ebc99d0de:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      38c5a976-1bcb-f63c-4156-2470f997f03b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0fc84472-7e81-e195-f772-4656940853e1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      199972e7-0718-e7e4-d0e4-37808750ff91:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b3198462-4199-5cfa-c75c-85421c0d35e4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1ea32420-68d1-4773-344d-642def1887db:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0827bd51-4366-a4c4-d11e-fd63de977fac:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a3806408-83ef-067f-b0da-11916c8bd5ca:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      35a22e88-9d1e-28fd-4404-67df6029b493:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      50223d07-6c60-c34a-481e-2ba3c0792ca2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ff1d29ac-48c9-bee1-aab0-f7b38a5450b8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3c89e457-b3b9-f553-3f34-1f99d9ca4bfc:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8f72c40f-b7b9-526d-cc61-888fba418d98:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      58835b4c-2a2f-f016-09a1-ac5d722133c5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      95b09fcf-5b15-70b9-9e2b-1745e47e62b8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dc2a81b6-e00e-97db-0f0e-2c93b11ebca9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      63d812fd-5ae6-deaa-3d3d-df16b616aa87:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      24aa8c9e-b8f9-5946-933f-d71a5a412ebe:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      47debc3e-5271-d20d-9330-0b5eb74b4156:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      663be679-5572-adbd-feca-0763482fd483:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a399d8f0-283e-0cba-a4d6-2e7936bf354f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      1c791b62-7bf1-06e5-927c-11bb5f9c0654:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f745f3ce-e901-014a-2bed-e1310ccd3a82:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b85a35ac-a973-49ce-c6c8-7c85877a93a1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      471c654a-5f16-844b-f123-7b3ed5153209:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a35f4460-7f51-90da-29ab-723164c5879f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8625e1a4-c398-6be2-e675-55552f779a3c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      23957ff0-7700-7f16-d88a-3e2d6158fe9c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ab9f2b04-3db1-d0e2-6455-77df297156ea:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0b2322bf-f397-3f38-c0cc-2e4461a61d48:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e0ae4de7-7bb1-2679-19ae-2fb7fa13ae63:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      69fc52e6-3dfc-b310-7f58-d2d14ec2286c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      220063d8-c01a-23b0-3de4-1bf39651441d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d11f02e3-e471-b041-d627-eb9be688ed79:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2746a191-8fe3-6097-279d-dbac2d547536:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      84b90938-3ee2-d410-31e4-628b8c12f389:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7ef482b4-4305-8680-8cf7-2c910d6779ad:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8e4202f9-260a-9ca0-528b-705bb871da02:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4c00addc-54c6-dfc2-ba68-f352d298119f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f2e7af9c-94e5-b6c5-9037-47654758c049:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      53052b1d-c0b5-ed23-e7e2-d27abd7d0dca:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5b4fb952-66ad-2a9d-7e1c-223a747f78aa:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      dac0c28e-9290-2d3a-f8b6-df4c36a47881:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      36847244-708e-b893-eeda-193642330097:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      99aa7d25-5789-2f8d-6a7e-abea396c1773:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      137f1f37-dd2d-e487-3e4e-8d55c79f167b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a8f60da4-dc24-c22e-6405-ecfa7886c97d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7b2207c8-0591-156b-af78-b1f8fe2374d5:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fbdccf50-24a3-cc46-0ef7-2710e2ad27a0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      41a90b39-a727-93b8-f45d-fb2e99d4e39e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0633eebc-2fad-beda-50b0-c37486e0ac01:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0f700f8b-b82c-4c34-04b3-52c035c4a6c0:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3e1f8d00-ba36-4bfb-8f42-eda2c35e09af:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6eb4b680-56aa-6a64-d7c5-4a91fc6de8a3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c1acca3f-1533-ed1b-37c4-b2a88c92b5db:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ccef4752-773a-fb18-a326-4aeef0c99824:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3a9cb38a-f66e-02fa-9694-0b819233f9cb:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      df072ad5-6035-7004-3543-5db70b216563:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      45ac74da-2b3e-27a3-af26-2131414a64b7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      f511f610-3c37-d1e1-fd13-1d3a3161ab77:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9b033d98-46ea-c1e2-12ce-9a78eab00e0b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      121d661a-dfb4-5375-b2c6-7820db00f3f2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      5ae12f40-b780-18ce-41af-964721147d92:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      8264e4fd-4407-558a-f2f2-8dc35eccb28f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      efef0234-4b23-8994-d3fa-a6e126cc8a0b:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6a110e95-2964-55f4-ad8a-d61b34a544b4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      97d94aa1-ab13-1ba1-0d6f-f4197ccc447c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      89c8f6ed-c569-d96e-b500-3567c835b456:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      806b9f27-c7b2-f3e3-cb2b-4590d93abc7d:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e6d4e339-9b06-d564-ed6a-3af5b9276b73:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0fee7c80-0ee4-2f80-17ef-c2b88bfcb670:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      fe554011-4790-9f0b-d659-f405a9c2e38e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ee38481c-df92-1fb2-a644-ae52680aecb9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0414cdcc-8aab-71ce-b9e4-5fe3cf27b8ac:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      4f193e53-0fb6-26c5-897c-30b85718d22a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      76c8c7cb-795a-d30a-4238-d191f3bd888f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bd86d6a2-d30c-d8da-9ac9-e6c5f4926c37:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ffbf71f7-f895-084e-bdb9-a9654c229a16:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e1a999f2-9cfc-419d-4a87-61b2d33bc5ab:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9687319f-0e80-9fa0-e087-aeee0490ff54:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      86cc4067-1ed5-75a1-eac5-22a64893021a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      30e6739f-f526-eeb8-69db-d304be1f00e8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3d904911-962c-47c2-a8dc-85ad2532f234:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      2d2b236b-b864-8488-787b-bd1227496609:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0e9ed2a9-7e1e-297e-76f9-fc8521490f7f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      358a1fa3-6dd2-cbe9-b22d-0bf053ca9a82:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      19965627-d77e-928d-cf73-6fbe5f0b17f8:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      3aa22c75-9a51-55ce-da3f-7976ea92a402:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ee5bf15b-a323-36c2-2050-a8ba41dfc474:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bbe073ec-cd7f-fefd-54d6-ac37f633962e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b52f31cc-d6a9-f15c-8748-2c20c17ec40e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ac16bb44-a571-128e-86f6-66706734298c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      6f4a725a-8238-3364-1a30-d2634c8c8b65:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      bd028fb9-b1d1-b54f-8e78-218602fe40f7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a50d7532-2b22-c312-e253-896458100ba9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      0cdf2be7-d7cc-8d7d-d729-5ddc0f490d93:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      78b1945f-99e1-9889-94d9-ade78b3ffcb4:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      06fc60ed-074a-592c-104e-337e671a91be:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      be20b541-aaa8-3af9-8f9b-b031cf3f3b6e:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      9fda845c-ecc8-90ed-54af-b51dcaa7ec0f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      b0e24ef3-bc08-9c7c-9c1a-d9b099fc05b2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      d064e32f-d1db-5d06-318f-3310b17b6dce:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c1846bd9-7c94-7543-bce6-c005bf1bd70a:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      a22b68d0-78de-2e5a-ddcc-744a4034f9ad:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e1faf669-ecc5-da8f-2051-9fc3f8ff84e7:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7fd8c38d-64d0-1f57-29e1-8b8716a5cd7c:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      74dae0ed-44ff-a437-ed95-8f81a7925eb2:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      ceb2baa8-dcd9-3a2b-b901-d32fa7574df3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      e6a1320d-af4b-33bb-5a9d-65f595aebed1:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      7d550f4d-8679-8f42-c4ff-49defa5150c9:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c566fe4c-8857-b0c2-9088-64c1cbf9fdf6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      23922d1e-6010-c37c-7be5-4673806b139f:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      08375d19-d5c5-1cb4-80a0-b045746041f3:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
+      c241a8af-d304-c492-7019-d8a4ab4129e6:
+        state: ENABLED
+        variants:
+          on: true
+          off: false
+        defaultVariant: on
