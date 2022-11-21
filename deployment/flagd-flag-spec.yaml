@@ -1,4 +1,4 @@
-apiVersion: core.openfeature.dev/v1alpha1
+apiVersion: core.openfeature.dev/v1alpha2
 kind: FeatureFlagConfiguration
 metadata:
   name: end-to-end
