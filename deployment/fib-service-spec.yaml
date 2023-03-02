@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: fib-service
-          image: ghcr.io/open-feature/playground-fib-service:v0.4.0
+          image: ghcr.io/open-feature/playground-fib-service:v0.6.3
           args:
             - flagd
           ports:
