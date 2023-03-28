@@ -2,6 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: open-feature-fib-service
+  namespace: open-feature-demo
   labels:
     app: open-feature-fib-service
 spec:
@@ -33,26 +34,31 @@ spec:
                 secretKeyRef:
                   name: vendor-keys
                   key: harness-key
+                  optional: true
             - name: LD_KEY
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
                   key: ld-key
+                  optional: true
             - name: SPLIT_KEY
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
                   key: split-key
+                  optional: true
             - name: CLOUDBEES_APP_KEY
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
                   key: cloudbees-key
+                  optional: true
             - name: FLAGSMITH_ENV_KEY
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
                   key: flagsmith-key
+                  optional: true
 
 ---
 # Service exposed using NodePort
@@ -60,20 +66,21 @@ apiVersion: v1
 kind: Service
 metadata:
   name: open-feature-fibonacci-service
+  namespace: open-feature-demo
 spec:
-  type: NodePort
+  type: ClusterIP
   selector:
     app: open-feature-fib-service
   ports:
     # By default and for convenience, the `targetPort` is set to the same value as the `port` field.
     - port: 30002
       targetPort: 30002
-      nodePort: 30002
 ---
 apiVersion: v1
 kind: ConfigMap
 metadata:
   name: open-feature-fib-service-config
+  namespace: open-feature-demo
 data:
   OTEL_EXPORTER_JAEGER_AGENT_HOST: open-feature-demo-jaeger-service
   OTEL_EXPORTER_JAEGER_AGENT_PORT: "6832"

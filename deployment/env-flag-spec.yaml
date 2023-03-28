@@ -2,6 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: open-feature-demo-env-flag-config
+  namespace: open-feature-demo
 data:
   NEW_WELCOME_MESSAGE: "false"
   FIB_ALGO: default

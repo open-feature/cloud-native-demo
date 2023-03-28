@@ -2,6 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: open-feature-demo-playground-app
+  namespace: open-feature-demo
   labels:
     app: open-feature-demo
 spec:
@@ -34,27 +35,32 @@ spec:
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
-                  key: harness-key
+                  key: harness-keys
+                  optional: true
             - name: LD_KEY
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
                   key: ld-key
+                  optional: true
             - name: SPLIT_KEY
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
                   key: split-key
+                  optional: true
             - name: CLOUDBEES_APP_KEY
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
                   key: cloudbees-key
+                  optional: true
             - name: FLAGSMITH_ENV_KEY
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
                   key: flagsmith-key
+                  optional: true
 
 ---
 # Service exposed using NodePort
@@ -62,8 +68,9 @@ apiVersion: v1
 kind: Service
 metadata:
   name: open-feature-demo-service
+  namespace: open-feature-demo
 spec:
-  type: LoadBalancer
+  type: ClusterIP
   selector:
     app: open-feature-demo
   ports:
@@ -75,6 +82,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: open-feature-demo-config
+  namespace: open-feature-demo
 data:
   OTEL_EXPORTER_JAEGER_AGENT_HOST: open-feature-demo-jaeger-service
   OTEL_EXPORTER_JAEGER_AGENT_PORT: "6832"

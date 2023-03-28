@@ -2,6 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: open-feature-demo-jaeger-agent
+  namespace: open-feature-demo
 spec:
   replicas: 1
   selector:
@@ -23,8 +24,9 @@ apiVersion: v1
 kind: Service
 metadata:
   name: open-feature-demo-jaeger-service
+  namespace: open-feature-demo
 spec:
-  type: NodePort
+  type: ClusterIP
   selector:
     app: open-feature-demo-jaeger
   ports:
@@ -39,8 +41,9 @@ apiVersion: v1
 kind: Service
 metadata:
   name: open-feature-demo-jaeger-ui
+  namespace: open-feature-demo
 spec:
-  type: LoadBalancer
+  type: ClusterIP
   selector:
     app: open-feature-demo-jaeger
   ports:
