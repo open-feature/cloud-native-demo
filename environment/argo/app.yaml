@@ -17,5 +17,6 @@ spec:
     repoURL: https://github.com/bacherfl/openfeature-argo-demo
     targetRevision: HEAD
   syncPolicy:
+    automated: {}
     syncOptions:
     - CreateNamespace=true
