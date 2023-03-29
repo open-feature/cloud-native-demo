@@ -1,9 +1,14 @@
+GITOPS_REPO ?= https://github.com/bacherfl/openfeature-argo-demo
+
 cleanup-environment: uninstall-ofo uninstall-argo
 
-install-environment: install-ofo install-argo
+install-environment: install-ofo install-argo create-argo-app
 
 install-ofo:
+	kubectl apply -f https://github.com/cert-manager/cert-manager/releases/download/v1.10.1/cert-manager.yaml &&
+	kubectl wait --for=condition=Available=True deploy --all -n 'cert-manager'
 	kubectl apply -f environment/ofo/ofo.yaml
+	kubectl wait --for=condition=Available=True deploy --all -n 'open-feature-operator-system'
 
 uninstall-ofo:
 	kubectl delete -f environment/ofo/ofo.yaml
@@ -11,7 +16,12 @@ uninstall-ofo:
 install-argo:
 	kubectl create namespace argocd
 	kubectl -n argocd apply -f environment/argo/argo.yaml
-	kubectl -n argocd apply -f environment/argo/app.yaml
+	kubectl wait --for=condition=Available=True deploy --all -n 'argocd'
+
+create-argo-app:
+	sed 's~{{GITOPS_REPO}}~$(GITOPS_REPO)~g' environment/argo/app.yaml > environment/argo/app_tmp.yaml
+	kubectl -n argocd apply -f environment/argo/app_tmp.yaml
+	rm environment/argo/app_tmp.yaml
 
 uninstall-argo:
 	kubectl delete namespace argocd

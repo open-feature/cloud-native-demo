@@ -1,12 +1,9 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  creationTimestamp: "2023-03-28T12:57:31Z"
   generation: 12
   name: openfeature-demo
   namespace: argocd
-  resourceVersion: "5377932"
-  uid: 53a58709-e5b4-49d3-a5af-b6a1230fed3a
 spec:
   destination:
     namespace: open-feature-demo
@@ -14,7 +11,7 @@ spec:
   project: default
   source:
     path: deployment
-    repoURL: https://github.com/bacherfl/openfeature-argo-demo
+    repoURL: {{GITOPS_REPO}} # https://github.com/bacherfl/openfeature-argo-demo
     targetRevision: HEAD
   syncPolicy:
     automated: {}
