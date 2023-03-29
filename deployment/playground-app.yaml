@@ -18,7 +18,22 @@ spec:
         openfeature.dev: "enabled"
         openfeature.dev/featureflagconfiguration: "end-to-end"
     spec:
+      volumes:
+        - name: proxy-config
+          configMap:
+            name: proxy-config
+            items:
+              - key: nginx.conf
+                path: nginx.conf
       containers:
+        - name: flagd-proxy
+          image: nginx:stable-alpine
+          ports:
+            - containerPort: 80
+          volumeMounts:
+            - name: proxy-config
+              mountPath: /etc/nginx
+              readOnly: true
         - name: open-feature-demo
           image: ghcr.io/open-feature/playground-app:v0.8.0
           args:
@@ -63,11 +78,23 @@ spec:
                   optional: true
 
 ---
-# Service exposed using NodePort
 apiVersion: v1
 kind: Service
 metadata:
   name: open-feature-demo-service
+  namespace: open-feature-demo
+spec:
+  type: ClusterIP
+  selector:
+    app: open-feature-demo
+  ports:
+    - port: 80
+      targetPort: 30000
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: flagd-service
   namespace: open-feature-demo
 spec:
   type: ClusterIP
@@ -88,3 +115,19 @@ data:
   GO_FEATURE_FLAG_URL: http://open-feature-demo-goff-service:1031
   FIB_SERVICE_URL: http://open-feature-fibonacci-service:30002
   NODE_ENV: production
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: proxy-config
+data:
+  nginx.conf: |
+    events {}
+    http {
+      server {
+        location / {
+          proxy_pass http://127.0.0.1:8013;
+        }
+      }
+    }
+
