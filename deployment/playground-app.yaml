@@ -102,7 +102,8 @@ spec:
     app: open-feature-demo
   ports:
     - port: 8013
-      targetPort: 80
+      targetPort: 80:pod
+      
 ---
 apiVersion: v1
 kind: ConfigMap
