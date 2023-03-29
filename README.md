@@ -95,3 +95,7 @@ This wil make the playground app accessible via [](http://localhost:8085).
 
 To demonstrate the change of a flag using a PR, adapt one of the flags in the file `deployment/flagd-flag-spec.yaml` and commit/push those changes to a 
 branch of the GitOps repository, e.g.: 
+
+![PR for changing background color](assets/change-color-pr.png)
+
+Once the PR has been merged, the new background color should automatically be visible within ~30 seconds.
