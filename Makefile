@@ -30,6 +30,7 @@ port-forward-playground:
 	@echo "CTRL-c to stop port-forward"
 
 	@echo ""
+	kubectl port-forward -n open-feature-demo svc/flagd-service 8013:8013 & 
 	kubectl port-forward -n open-feature-demo svc/open-feature-demo-service 8085:80
 
 port-forward-argo:
