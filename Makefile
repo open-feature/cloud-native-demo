@@ -1,11 +1,17 @@
+cleanup-environment: uninstall-ofo uninstall-argo
+
 install-environment: install-ofo install-argo
 
 install-ofo:
 	kubectl apply -f environment/ofo/ofo.yaml
 
+uninstall-ofo:
+	kubectl delete -f environment/ofo/ofo.yaml
+
 install-argo:
 	kubectl create namespace argocd
 	kubectl -n argocd apply -f environment/argo/argo.yaml
+	kubectl -n argocd apply -f environment/argo/app.yaml
 
 uninstall-argo:
 	kubectl delete namespace argocd

@@ -36,7 +36,6 @@ spec:
       protocol: UDP
 
 ---
-# Service exposed using NodePort
 apiVersion: v1
 kind: Service
 metadata:
