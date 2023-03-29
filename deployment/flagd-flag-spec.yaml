@@ -11,7 +11,7 @@ spec:
         variants:
           'on': true
           'off': false
-        defaultVariant: 'on'
+        defaultVariant: 'off'
       hex-color:
         variants:
           red: c05543

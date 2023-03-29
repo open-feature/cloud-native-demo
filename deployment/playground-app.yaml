@@ -74,7 +74,6 @@ spec:
   selector:
     app: open-feature-demo
   ports:
-    # By default and for convenience, the `targetPort` is set to the same value as the `port` field.
     - port: 80
       targetPort: 30000
 ---

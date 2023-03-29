@@ -12,16 +12,24 @@ uninstall-argo:
 
 port-forward-jaeger:
 	@echo ""
-	@echo "Open Jaeger in your Browser: http://localhost:16686"
+	@echo "Open Jaeger in your Browser: http://localhost:8082"
 	@echo "CTRL-c to stop port-forward"
 
 	@echo ""
-	kubectl port-forward -n open-feature-demo svc/open-feature-demo-jaeger-ui 16686
+	kubectl port-forward -n open-feature-demo svc/open-feature-demo-jaeger-ui 8082:80
 
 port-forward-playground:
 	@echo ""
-	@echo "Open the Playground App in your Browser: http://localhost:30000"
+	@echo "Open the Playground App in your Browser: http://localhost:8085"
 	@echo "CTRL-c to stop port-forward"
 
 	@echo ""
-	kubectl port-forward -n open-feature-demo svc/open-feature-demo-service 30000
+	kubectl port-forward -n open-feature-demo svc/open-feature-demo-service 8085:80
+
+port-forward-argo:
+	@echo ""
+	@echo "Open Argo in your Browser: http://localhost:8081"
+	@echo "CTRL-c to stop port-forward"
+
+	@echo ""
+	kubectl port-forward -n argocd svc/argocd-server 8081:80
