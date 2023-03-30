@@ -50,7 +50,7 @@ spec:
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
-                  key: harness-keys
+                  key: harness-key
                   optional: true
             - name: LD_KEY
               valueFrom:

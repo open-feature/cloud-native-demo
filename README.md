@@ -38,7 +38,7 @@ You can afterwards also login to ArgoCD to check if the Application has been cre
 make port-forward-argo
 ```
 
-Running this command will make ArgoCD accessibla via [](http://localhost:8081). When accessing ArgoCD, you will be prompted to enter your credentials.
+Running this command will make ArgoCD accessibla via [http://localhost:8081](http://localhost:8081). When accessing ArgoCD, you will be prompted to enter your credentials.
 Those are auto generated when ArgoCD is installed, and can be retrieved using the `argocd` CLI, using the following command:
 
 ```
@@ -89,7 +89,7 @@ To access the playground application, create a port-forward using the following 
 make port-forward-playground
 ```
 
-This wil make the playground app accessible via [](http://localhost:8085).
+This wil make the playground app accessible via [http://localhost:8085](http://localhost:8085).
 
 ## Changing a Feature Flag via PR
 
@@ -99,3 +99,50 @@ branch of the GitOps repository, e.g.:
 ![PR for changing background color](assets/change-color-pr.png)
 
 Once the PR has been merged, the new background color should automatically be visible within ~30 seconds.
+
+![Changed Background Color](assets/green-blue.png)
+
+## Demonstrating Tracing Support
+
+In addition to the playground application, the `open-feature-demo` namespace also contains a Jaeger instance, where the application sends traces to.
+To demonstrate this, click on the element in the middle of the screen to start the calculation of the fibonacci number. Being logged out, the backend will
+use the naive `recursive` algorithm to calculate the number, due to the configuration of the `fib-algo` feature flag. Due to this, the calculation will take a couple of seconds. 
+To inspect the traces an Jaeger, use the following command to create a port-forward to the Jaeger UI:
+
+```shell
+make port-forward-jaeger
+```
+
+This will make the Jaeger UI accessible on [http://localhost:8082](http://localhost:8082). To inspect the traces of the `calculate` function in Jaeger, select the
+`fib3r` service, and filter for the `GET /calculate` operation (see the screenshot below). This will give you a list of all traces related to this operation:
+
+![Jaeger Traces](assets/jaeger-traces.png)
+
+When selecting one, you will get to the detailed breakdown of the spans that are part of that trace. Here you will find the information that the flagd-provider evaluated
+the `fib-algo` feature flag, which resolved to the `recursive` variant:
+
+![Trace with Recursive Algorithm](assets/recursive-algorithm.png)
+
+Now, to make things faster, we will go back to the app's UI and login with a user name that ends with `@faas.com`:
+
+![Login](assets/login.png)
+
+After you are logged in, trigger the calculation again - this time it will be much faster, due to the `binet` algorithm being used for logged in users:
+
+![Fast Calculation](assets/fast-calculation.png)
+
+Just like before, the trace for this operation can then again be inspected, only that this time the overall timespan will be much smaller, due to the different algorithm being chosen:
+
+![Trace with Binet Algorithm](assets/binet-algorithm.png)
+
+# Using other Flag Evaluation Tools
+
+In addition to FlagD, the demo app supports the following feature provider tools:
+
+- Environment Variable
+- Go Feature Flag
+- CloudBees Feature Management
+- Split
+- Harness
+- LaunchDarkly
+- Flagsmith

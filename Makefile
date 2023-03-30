@@ -50,3 +50,4 @@ port-forward-argo:
 
 	@echo ""
 	kubectl port-forward -n argocd svc/argocd-server 8081:80
+

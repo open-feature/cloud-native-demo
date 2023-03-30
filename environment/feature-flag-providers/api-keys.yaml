@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: vendor-keys
+  namespace: open-feature-demo
+data:
+  ld-key: ""
+  harness-key: ""
+  split-key: ""
+  cloudbees-key: ""
+  flagsmith-key: ""
