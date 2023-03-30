@@ -70,6 +70,12 @@ spec:
                   name: vendor-keys
                   key: cloudbees-key
                   optional: true
+            - name: CLOUDBEES_APP_KEY_WEB
+              valueFrom:
+                secretKeyRef:
+                  name: vendor-keys
+                  key: cloudbees-key
+                  optional: true
             - name: FLAGSMITH_ENV_KEY
               valueFrom:
                 secretKeyRef:
