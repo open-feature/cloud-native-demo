@@ -5,7 +5,12 @@ metadata:
   namespace: open-feature-demo
 data:
   ld-key: ""
+  ld-key-web: ""
   harness-key: ""
+  harness-key-web: ""
   split-key: ""
+  split-key-web: ""
   cloudbees-key: ""
+  cloudbees-key-web: ""
   flagsmith-key: ""
+  flagsmith-key-web: ""

@@ -52,17 +52,35 @@ spec:
                   name: vendor-keys
                   key: harness-key
                   optional: true
+            - name: HARNESS_KEY_WEB
+              valueFrom:
+                secretKeyRef:
+                  name: vendor-keys
+                  key: harness-key-web
+                  optional: true
             - name: LD_KEY
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
                   key: ld-key
                   optional: true
+            - name: LD_KEY_WEB
+              valueFrom:
+                secretKeyRef:
+                  name: vendor-keys
+                  key: ld-key-web
+                  optional: true
             - name: SPLIT_KEY
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
                   key: split-key
+                  optional: true
+            - name: SPLIT_KEY_WEB
+              valueFrom:
+                secretKeyRef:
+                  name: vendor-keys
+                  key: split-key-web
                   optional: true
             - name: CLOUDBEES_APP_KEY
               valueFrom:
@@ -74,13 +92,19 @@ spec:
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
-                  key: cloudbees-key
+                  key: cloudbees-key-web
                   optional: true
             - name: FLAGSMITH_ENV_KEY
               valueFrom:
                 secretKeyRef:
                   name: vendor-keys
                   key: flagsmith-key
+                  optional: true
+            - name: FLAGSMITH_ENV_KEY_WEB
+              valueFrom:
+                secretKeyRef:
+                  name: vendor-keys
+                  key: flagsmith-key-web
                   optional: true
 
 ---
