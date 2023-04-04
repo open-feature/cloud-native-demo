@@ -15,13 +15,13 @@ spec:
         pathType: Prefix
         backend:
           service:
-            name: open-feature-demo-service
-            port:
-              number: 80
-      - path: /flagd
-        pathType: Prefix
-        backend:
-          service:
             name: flagd-service
             port:
-              number: 8013
+              number: 80
+      ##- path: /flagd
+      ##  pathType: Prefix
+      ##  backend:
+      ##    service:
+      ##      name: flagd-service
+      ##      port:
+      ##        number: 8013
