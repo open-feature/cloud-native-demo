@@ -7,7 +7,7 @@ spec:
     Port: 80
     evaluator: json
     defaultSyncProvider: kubernetes
-    tag: main
+    tag: v0.5.0
     sources:
     - source: open-feature-demo/client-side
       provider: kubernetes
