@@ -21,7 +21,7 @@ while true; do
         fi
 
         # Create the Secret containing the address
-        kubectl create secret generic ${SECRET_NAME} --from-literal=address=${ADDRESS} -n ${NAMESPACE}
+        kubectl create secret generic ${SECRET_NAME} --from-literal=ingress-address=${ADDRESS} -n ${NAMESPACE}
 
         # Exit the loop
         break
