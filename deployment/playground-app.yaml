@@ -16,7 +16,6 @@ spec:
         app: open-feature-demo
       annotations:
         openfeature.dev: "enabled"
-        #openfeature.dev/featureflagconfiguration: "end-to-end"
         openfeature.dev/flagsourceconfiguration: "source-configuration"
     spec:
       volumes:
@@ -153,7 +152,7 @@ data:
       server {
         location / {
           proxy_pass http://127.0.0.1:30000;
-          
+
           # kill cache
           expires -1;
         }
