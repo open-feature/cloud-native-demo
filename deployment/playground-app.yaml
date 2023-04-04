@@ -46,6 +46,8 @@ spec:
             - configMapRef:
                 name: open-feature-demo-env-flag-config
           env:
+            - name: FLAGD_HOST_WEB
+              value: http://34.142.112.211/flagd
             - name: HARNESS_KEY
               valueFrom:
                 secretKeyRef:
