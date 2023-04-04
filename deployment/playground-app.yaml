@@ -47,7 +47,9 @@ spec:
                 name: open-feature-demo-env-flag-config
           env:
             - name: FLAGD_HOST_WEB
-              value: http://34.142.112.211/flagd
+              value: 34.142.112.211:8013/flagd
+            - name: FLAGD_PORT_WEB
+              value: ""
             - name: HARNESS_KEY
               valueFrom:
                 secretKeyRef:
@@ -133,7 +135,7 @@ spec:
   selector:
     app: open-feature-demo
   ports:
-    - port: 8013
+    - port: 80
       targetPort: 80
 
 ---
