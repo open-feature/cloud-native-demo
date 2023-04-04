@@ -7,8 +7,3 @@ data:
   NEW_WELCOME_MESSAGE: "false"
   FIB_ALGO: default
   HEX_COLOR: 00CC00
-  HARNESS_KEY: ""
-  SPLIT_KEY: ""
-  LD_KEY: ""
-  FLAGSMITH_ENV_KEY: ""
-  CLOUDBEES_APP_KEY: ""
