@@ -5,7 +5,7 @@ metadata:
   namespace: open-feature-demo
   annotations:
     nginx.ingress.kubernetes.io/rewrite-target: /
-    ingress.kubernetes.io/force-ssl-redirect: "false"
+    nginx.ingress.kubernetes.io/force-ssl-redirect: "false"
 spec:
   ingressClassName: nginx-example
   rules:
