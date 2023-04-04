@@ -51,3 +51,5 @@ port-forward-argo:
 	@echo ""
 	kubectl port-forward -n argocd svc/argocd-server 8081:80
 
+get-argo-login:
+	argocd admin initial-password -n argocd

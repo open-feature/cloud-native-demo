@@ -1,0 +1,27 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: playground-ingress
+  namespace: open-feature-demo
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: /
+    ingress.kubernetes.io/force-ssl-redirect: "false"
+spec:
+  ingressClassName: nginx-example
+  rules:
+  - http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: open-feature-demo-service
+            port:
+              number: 80
+      - path: /flagd
+        pathType: Prefix
+        backend:
+          service:
+            name: flagd-service
+            port:
+              number: 8013
