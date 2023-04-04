@@ -2,6 +2,8 @@ GITOPS_REPO ?= https://github.com/bacherfl/openfeature-argo-demo
 
 cleanup-environment: uninstall-ofo uninstall-argo
 
+install-environment-with-ingress: install-ofo install-ingress install-argo create-argo-app
+
 install-environment: install-ofo install-argo create-argo-app
 
 install-ofo:
@@ -17,6 +19,10 @@ install-argo:
 	kubectl create namespace argocd
 	kubectl -n argocd apply -f environment/argo/argo.yaml
 	kubectl wait --for=condition=Available=True deploy --all -n 'argocd'
+
+install-ingress:
+	kubectl apply -f environment/ingress/ingress.yaml
+	./scripts/setup-ingress-address.sh
 
 create-argo-app:
 	sed 's~{{GITOPS_REPO}}~$(GITOPS_REPO)~g' environment/argo/app.yaml > environment/argo/app_tmp.yaml

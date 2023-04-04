@@ -1,3 +1,18 @@
+apiVersion: core.openfeature.dev/v1alpha3
+kind: FlagSourceConfiguration
+metadata:
+    name: source-configuration
+spec:
+    metricsPort: 8080
+    Port: 80
+    evaluator: json
+    defaultSyncProvider: filepath
+    tag: main
+    sources:
+    - source: open-feature-demo/end-to-end
+      provider: kubernetes
+    probesEnabled: true
+---
 apiVersion: core.openfeature.dev/v1alpha2
 kind: FeatureFlagConfiguration
 metadata:
