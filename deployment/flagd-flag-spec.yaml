@@ -9,14 +9,16 @@ spec:
     defaultSyncProvider: filepath
     tag: main
     sources:
-    - source: open-feature-demo/end-to-end
+    - source: open-feature-demo/client-side
+      provider: kubernetes
+    - source: open-feature-demo/server-side
       provider: kubernetes
     probesEnabled: true
 ---
 apiVersion: core.openfeature.dev/v1alpha2
 kind: FeatureFlagConfiguration
 metadata:
-  name: end-to-end
+  name: client-side
   namespace: open-feature-demo
 spec:
   featureFlagSpec:
@@ -34,6 +36,15 @@ spec:
           blue: 0d507b
         defaultVariant: blue
         state: ENABLED
+---
+apiVersion: core.openfeature.dev/v1alpha2
+kind: FeatureFlagConfiguration
+metadata:
+  name: server-side
+  namespace: open-feature-demo
+spec:
+  featureFlagSpec:
+    flags:
       fib-algo:
         variants:
           recursive: recursive
