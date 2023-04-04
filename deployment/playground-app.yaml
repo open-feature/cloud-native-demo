@@ -47,9 +47,9 @@ spec:
                 name: open-feature-demo-env-flag-config
           env:
             - name: FLAGD_HOST_WEB
-              value: 34.142.112.211
+              value: "34.142.112.211"
             - name: FLAGD_PORT_WEB
-              value: "80"
+              value: 80
             - name: HARNESS_KEY
               valueFrom:
                 secretKeyRef:
