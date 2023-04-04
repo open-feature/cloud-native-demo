@@ -6,7 +6,7 @@ spec:
     metricsPort: 8080
     Port: 80
     evaluator: json
-    defaultSyncProvider: filepath
+    defaultSyncProvider: kubernetes
     tag: main
     sources:
     - source: open-feature-demo/client-side
