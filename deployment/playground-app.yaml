@@ -174,12 +174,10 @@ data:
       server {
         location / {
           proxy_pass http://open-feature-demo-service:80;
-
+          grpc_pass grpc://open-feature-demo-service:80;
+          
           # kill cache
           expires -1;
-
-          proxy_pass http://open-feature-demo-service:80;
-          grpc_pass grpc://open-feature-demo-service:80;
         }
         location /tracing {
           proxy_pass http://open-feature-demo-jaeger-ui:80;
