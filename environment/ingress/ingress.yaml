@@ -20,13 +20,7 @@ spec:
         pathType: Prefix
         backend:
           service:
-            name: open-feature-demo-service
+            name: nginx
             port:
               number: 80
-      - path: /tracing
-        pathType: Prefix
-        backend:
-          service:
-            name: open-feature-demo-jaeger-service
-            port:
-              number: 80
+      

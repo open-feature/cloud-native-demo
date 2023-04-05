@@ -114,7 +114,40 @@ spec:
                   name: vendor-keys
                   key: flagsmith-key-web
                   optional: true
-
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx
+  namespace: open-feature-demo
+  labels:
+    app: nginx
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nginx
+  template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      volumes:
+        - name: proxy-config
+          configMap:
+            name: proxy-config
+            items:
+              - key: nginx.conf
+                path: nginx.conf
+      containers:
+        - name: flagd-proxy
+          image: nginx:stable-alpine
+          ports:
+            - containerPort: 80
+          volumeMounts:
+            - name: proxy-config
+              mountPath: /etc/nginx
+              readOnly: true
 ---
 apiVersion: v1
 kind: Service
@@ -151,6 +184,12 @@ data:
     http {
       server {
         location / {
+          proxy_pass http://127.0.0.1:30000;
+
+          # kill cache
+          expires -1;
+        }
+        location /tracing {
           proxy_pass http://127.0.0.1:30000;
 
           # kill cache
