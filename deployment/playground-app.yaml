@@ -26,14 +26,14 @@ spec:
               - key: nginx.conf
                 path: nginx.conf
       containers:
-        - name: flagd-proxy
-          image: nginx:stable-alpine
-          ports:
-            - containerPort: 80
-          volumeMounts:
-            - name: proxy-config
-              mountPath: /etc/nginx
-              readOnly: true
+        #- name: flagd-proxy
+        #  image: nginx:stable-alpine
+        #  ports:
+        #    - containerPort: 80
+        #  volumeMounts:
+        #    - name: proxy-config
+        #      mountPath: /etc/nginx
+        #      readOnly: true
         - name: open-feature-demo
           image: ghcr.io/open-feature/playground-app:v0.8.0
           args:
@@ -225,7 +225,7 @@ metadata:
 spec:
   type: ClusterIP
   selector:
-    app: open-feature-demo
+    app: nginx
   ports:
     - port: 80
       targetPort: 80
