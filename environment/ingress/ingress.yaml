@@ -9,7 +9,6 @@ metadata:
   name: playground-ingress
   namespace: open-feature-demo
   annotations:
-    #nginx.ingress.kubernetes.io/rewrite-target: /
     nginx.ingress.kubernetes.io/force-ssl-redirect: "false"
 spec:
   ingressClassName: nginx
