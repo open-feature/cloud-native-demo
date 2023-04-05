@@ -1,7 +1,7 @@
 # OpenFeature ArgoCD Demo
 
 This demo showcases how the OpenFeature Operator allows to integrate with ArgoCD to control feature flags 
-in a GitOps environment. Using the `FeatureFlagConfiguration` CRD which lives in the application's GitOps 
+in a GitOps environment. Using the `FeatureFlagConfiguration` and `FlagSourceConfiguration` CRDs which live in the application's GitOps 
 reppository, features can be enabled/disabled by creating a pull request for the GitOps repository. Once a PR has been merged,
 ArgoCD will pick up that change and automatically apply the updated configuration. 
 Changes for a feature flag will be immediately reflected in the demo application, without the need to restart the pod running the application.
@@ -51,7 +51,7 @@ Once logged in to the ArgoCD UI, you should see the `openfeature-demo` applicati
 
 ![Application overview](assets/applications-overview.png)
 
-This application will be automatically synced every 30 seconds, so you should also see the deployment of the sample application, as well as a `Jaeger` instance in the `open-feature-demo` namespace. 
+This application will be automatically synced every 15 seconds, so you should also see the deployment of the sample application, as well as a `Jaeger` instance in the `open-feature-demo` namespace. 
 
 ```shell
 $ kubectl get all -n open-feature-demo
@@ -83,13 +83,18 @@ replicaset.apps/open-feature-demo-playground-app-65449d5444          1         1
 replicaset.apps/open-feature-fib-service-6c7b76d997                  1         1         1       3h22m
 ```
 
-To access the playground application, create a port-forward using the following command:
+
+The playground application will be accessible via an Ingress. You can get its IP with the following command:
+
 
 ```shell
-make port-forward-playground
+$ make get-ingress-address
+
+Playground application: http://<ingress-address>
+Jaeger UI:              http://<ingress-address>/tracing
 ```
 
-This wil make the playground app accessible via [http://localhost:8085](http://localhost:8085).
+This command will also print out the address of the Jaeger UI, which will be used later in this guide.
 
 ## Changing a Feature Flag via PR
 
@@ -107,13 +112,16 @@ Once the PR has been merged, the new background color should automatically be vi
 In addition to the playground application, the `open-feature-demo` namespace also contains a Jaeger instance, where the application sends traces to.
 To demonstrate this, click on the element in the middle of the screen to start the calculation of the fibonacci number. Being logged out, the backend will
 use the naive `recursive` algorithm to calculate the number, due to the configuration of the `fib-algo` feature flag. Due to this, the calculation will take a couple of seconds. 
-To inspect the traces an Jaeger, use the following command to create a port-forward to the Jaeger UI:
+To inspect the traces an Jaeger, use the following command to get a link to the Jaeger UI:
 
 ```shell
-make port-forward-jaeger
+$ make get-ingress-address
+
+Playground application: http://<ingress-address>
+Jaeger UI:              http://<ingress-address>/tracing
 ```
 
-This will make the Jaeger UI accessible on [http://localhost:8082](http://localhost:8082). To inspect the traces of the `calculate` function in Jaeger, select the
+To inspect the traces of the `calculate` function in Jaeger, select the
 `fib3r` service, and filter for the `GET /calculate` operation (see the screenshot below). This will give you a list of all traces related to this operation:
 
 ![Jaeger Traces](assets/jaeger-traces.png)
@@ -146,3 +154,7 @@ In addition to FlagD, the demo app supports the following feature provider tools
 - Harness
 - LaunchDarkly
 - Flagsmith
+
+To set up these providers, you need to populate the secret containing the API keys for these platforms. The file containing all the 
+required keys is located at `environment/feature-flag-providers/api-keys.yaml`. To find instructions on how to set up those keys, please refer to the
+[README of the OF playground app](https://github.com/open-feature/playground#available-providers).

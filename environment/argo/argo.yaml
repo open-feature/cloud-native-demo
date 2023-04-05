@@ -15567,7 +15567,7 @@ metadata:
     app.kubernetes.io/part-of: argocd
   name: argocd-cm
 data:
-  timeout.reconciliation: "30s"
+  timeout.reconciliation: "15s"
 ---
 apiVersion: v1
 kind: ConfigMap

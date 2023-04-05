@@ -59,3 +59,6 @@ port-forward-argo:
 
 get-argo-login:
 	argocd admin initial-password -n argocd
+
+get-ingress-address:
+	@./scripts/get-ingress-address.sh
