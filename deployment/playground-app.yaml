@@ -186,7 +186,7 @@ data:
         }
         location /schema.v1.Service {
           proxy_pass http://flagd-service:8013;
-          grpc_pass grpc://localhost:8013;
+          grpc_pass grpc://flagd-service:8013;
         }
       }
     }
