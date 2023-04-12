@@ -8,9 +8,9 @@ spec:
     defaultSyncProvider: kubernetes
     tag: v0.5.0
     sources:
-    - source: open-feature-demo/client-side
-      provider: kubernetes
     - source: open-feature-demo/server-side
+      provider: kubernetes
+    - source: open-feature-demo/client-side
       provider: kubernetes
     probesEnabled: true
 ---
