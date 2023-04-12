@@ -13,6 +13,7 @@ spec:
     - source: open-feature-demo/server-side
       provider: kubernetes
     probesEnabled: true
+    debugLogging: true
 ---
 apiVersion: core.openfeature.dev/v1alpha2
 kind: FeatureFlagConfiguration
