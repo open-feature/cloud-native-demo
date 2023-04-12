@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: deployment
-    repoURL: {{GITOPS_REPO}} # https://github.com/bacherfl/openfeature-argo-demo
+    repoURL: {{GITOPS_REPO}}
     targetRevision: HEAD
   syncPolicy:
     automated: {}
