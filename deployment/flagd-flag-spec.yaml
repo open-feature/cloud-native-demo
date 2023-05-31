@@ -33,7 +33,16 @@ spec:
           red: c05543
           green: 2f5230
           blue: 0d507b
-        defaultVariant: red
+          yellow: d4ac0d
+        defaultVariant: blue
+        targeting:
+            if:
+            - in:
+              - "@faas.com"
+              - var:
+                - email
+            - yellow
+            -
         state: ENABLED
 ---
 apiVersion: core.openfeature.dev/v1alpha2
@@ -52,12 +61,9 @@ spec:
           binet: binet
         defaultVariant: recursive
         state: ENABLED
-        targeting: {
-          "if": [
-            {
-              "in": ["@faas.com", {
-                "var": ["email"]
-              }]
-            }, "binet", null
-          ]
-        }
+      use-remote-fib-service:
+        variants:
+          'on': true
+          'off': false
+        defaultVariant: 'off'
+        state: ENABLED

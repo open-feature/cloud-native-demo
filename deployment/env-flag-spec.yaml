@@ -5,5 +5,5 @@ metadata:
   namespace: open-feature-demo
 data:
   NEW_WELCOME_MESSAGE: "false"
-  FIB_ALGO: default
+  FIB_ALGO: recursive
   HEX_COLOR: 00CC00

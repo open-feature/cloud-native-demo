@@ -14,6 +14,5 @@ spec:
     repoURL: {{GITOPS_REPO}}
     targetRevision: HEAD
   syncPolicy:
-    automated: {}
     syncOptions:
     - CreateNamespace=true

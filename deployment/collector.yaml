@@ -1,0 +1,88 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: open-feature-demo-otel-collector
+  namespace: open-feature-demo
+  labels:
+    app: open-feature-demo-otel-collector
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: open-feature-demo-otel-collector
+  template:
+    metadata:
+      labels:
+        app: open-feature-demo-otel-collector
+    spec:
+      volumes:
+        - name: collector-config
+          configMap:
+            name: collector-config
+      containers:
+        - name: otel-collector
+          image: otel/opentelemetry-collector-contrib:0.85.0
+          args: [ "--config=/etc/collector/collector-config.yaml" ]
+          ports:
+            - containerPort: 1888
+            - containerPort: 8888
+            - containerPort: 8889
+            - containerPort: 4317
+          volumeMounts:
+            - name: collector-config
+              mountPath: /etc/collector
+              subpath: collector-config.yaml
+              readOnly: true
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: open-feature-demo-otel-collector-service
+  namespace: open-feature-demo
+spec:
+  type: ClusterIP
+  selector:
+    app: open-feature-demo-otel-collector
+  ports:
+    - port: 1888
+      targetPort: 1888
+      name: pprof
+    - port: 8888
+      targetPort: 8888
+      name: exported-metrics
+    - port: 8889
+      targetPort: 8889
+      name: exporter-metrics
+    - port: 4317
+      targetPort: 4317
+      name: grpc-receiver
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: collector-config
+data:
+  collector-config.yaml: |
+    receivers:
+      otlp:
+        protocols:
+          grpc:
+    exporters:
+      prometheus:
+        endpoint: "0.0.0.0:8889"
+      otlp/jaeger:
+        endpoint: open-feature-demo-jaeger-service:4317
+        tls:
+          insecure: true
+    processors:
+      batch:
+    service:
+      pipelines:
+        traces:
+          receivers: [ otlp ]
+          processors: [ batch ]
+          exporters: [ otlp/jaeger ]
+        metrics:
+          receivers: [ otlp ]
+          processors: [ batch ]
+          exporters: [ prometheus ]

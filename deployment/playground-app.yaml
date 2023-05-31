@@ -35,7 +35,7 @@ spec:
               mountPath: /etc/nginx
               readOnly: true
         - name: open-feature-demo
-          image: ghcr.io/open-feature/playground-app:v0.8.0
+          image: ghcr.io/open-feature/playground-app:v0.12.1
           args:
             - flagd
           ports:
@@ -53,7 +53,7 @@ spec:
                   key: ingress-address
                   optional: true
             - name: FLAGD_PORT_WEB
-              value: "80"
+              value: "8013"
             - name: HARNESS_KEY
               valueFrom:
                 secretKeyRef:
@@ -129,13 +129,25 @@ spec:
       targetPort: 80
 ---
 apiVersion: v1
+kind: Service
+metadata:
+  name: flagd-service
+  namespace: open-feature-demo
+spec:
+  type: ClusterIP
+  selector:
+    app: open-feature-demo
+  ports:
+    - port: 80
+      targetPort: 80
+---
+apiVersion: v1
 kind: ConfigMap
 metadata:
   name: open-feature-demo-config
   namespace: open-feature-demo
 data:
-  OTEL_EXPORTER_JAEGER_AGENT_HOST: open-feature-demo-jaeger-service
-  OTEL_EXPORTER_JAEGER_AGENT_PORT: "6832"
+  OTEL_COLLECTOR_URL: http://open-feature-demo-otel-collector-service:4317
   GO_FEATURE_FLAG_URL: http://open-feature-demo-goff-service:1031
   FIB_SERVICE_URL: http://open-feature-fibonacci-service:30002
   NODE_ENV: production
