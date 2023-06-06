@@ -35,7 +35,7 @@ spec:
               mountPath: /etc/nginx
               readOnly: true
         - name: open-feature-demo
-          image: ghcr.io/open-feature/playground-app:v0.8.0
+          image: ghcr.io/open-feature/playground-app:v0.10.0
           args:
             - flagd
           ports:
@@ -53,7 +53,7 @@ spec:
                   key: ingress-address
                   optional: true
             - name: FLAGD_PORT_WEB
-              value: "80"
+              value: "8013"
             - name: HARNESS_KEY
               valueFrom:
                 secretKeyRef:
@@ -119,6 +119,19 @@ apiVersion: v1
 kind: Service
 metadata:
   name: open-feature-demo-service
+  namespace: open-feature-demo
+spec:
+  type: ClusterIP
+  selector:
+    app: open-feature-demo
+  ports:
+    - port: 80
+      targetPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: flagd-service
   namespace: open-feature-demo
 spec:
   type: ClusterIP
