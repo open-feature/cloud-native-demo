@@ -35,7 +35,7 @@ spec:
               mountPath: /etc/nginx
               readOnly: true
         - name: open-feature-demo
-          image: ghcr.io/open-feature/playground-app:v0.8.0
+          image: ghcr.io/open-feature/playground-app:v0.10.0
           args:
             - flagd
           ports:
