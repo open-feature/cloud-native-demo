@@ -1,0 +1,71 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: open-feature-demo-prometheus
+  namespace: open-feature-demo
+  labels:
+    app: open-feature-demo-prometheus
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: open-feature-demo-prometheus
+  template:
+    metadata:
+      labels:
+        app: open-feature-demo-prometheus
+    spec:
+      volumes:
+        - name: prometheus
+          configMap:
+            name: prometheus
+      containers:
+        - name: prometheus
+          image: prom/prometheus:v2.47.1
+          #args: [ "--config=/etc/collector/collector-config.yaml" ]
+          ports:
+            - containerPort: 9090
+          volumeMounts:
+            - name: prometheus
+              mountPath: /etc/prometheus
+              subpath: prometheus.yml
+              readOnly: true
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: open-feature-demo-prometheus-service
+  namespace: open-feature-demo
+spec:
+  type: ClusterIP
+  selector:
+    app: open-feature-demo-prometheus
+  ports:
+    - port: 9090
+      targetPort: 9090
+      name: ui
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: prometheus
+data:
+  prometheus.yml: |
+    global:
+      scrape_interval: 5s # By default, scrape targets every 15 seconds.
+
+      # Attach these labels to any time series or alerts when communicating with
+      # external systems (federation, remote storage, Alertmanager).
+
+    # A scrape configuration containing exactly one endpoint to scrape:
+    # Here it's Prometheus itself.
+    scrape_configs:
+      # The job name is added as a label `job=<job_name>` to any timeseries scraped from this config.
+      - job_name: "playground"
+
+        # Override the global default and scrape targets from this job every 5 seconds.
+        scrape_interval: 5s
+
+        static_configs:
+          - targets: [ 'open-feature-demo-otel-collector-service:8889' ]
+          - targets: [ 'open-feature-demo-otel-collector-service:8888' ]

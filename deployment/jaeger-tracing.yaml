@@ -16,12 +16,13 @@ spec:
       containers:
         - name: open-feature-demo-jaeger
           image: jaegertracing/all-in-one:1.38
-          env:
-            - name: QUERY_BASE_PATH
-              value: /tracing
+          args:
+            - "--collector.otlp.enabled"
           ports:
             - containerPort: 6832
+            - containerPort: 4317
             - containerPort: 16686
+            - containerPort: 4318
 ---
 apiVersion: v1
 kind: Service
@@ -33,11 +34,9 @@ spec:
   selector:
     app: open-feature-demo-jaeger
   ports:
-    - port: 6832
-      targetPort: 6832
-      name: internal
-      protocol: UDP
-
+    - port: 4317
+      targetPort: 4317
+      name: grpc
 ---
 apiVersion: v1
 kind: Service
