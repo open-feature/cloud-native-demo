@@ -147,15 +147,16 @@ metadata:
   name: open-feature-demo-config
   namespace: open-feature-demo
 data:
-  OTEL_COLLECTOR_URL: http://open-feature-demo-otel-collector-service:4317
-  GO_FEATURE_FLAG_URL: http://open-feature-demo-goff-service:1031
-  FIB_SERVICE_URL: http://open-feature-fibonacci-service:30002
-  NODE_ENV: production
+  OTEL_COLLECTOR_URL: "http://open-feature-demo-otel-collector-service:4317"
+  GO_FEATURE_FLAG_URL: "http://open-feature-demo-goff-service:1031"
+  FIB_SERVICE_URL: "http://open-feature-fibonacci-service:30002"
+  NODE_ENV: "production"
 ---
 apiVersion: v1
 kind: ConfigMap
 metadata:
   name: proxy-config
+  namespace: open-feature-demo
 data:
   nginx.conf: |
     events {}

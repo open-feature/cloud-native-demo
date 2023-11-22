@@ -2,6 +2,7 @@ apiVersion: core.openfeature.dev/v1alpha3
 kind: FlagSourceConfiguration
 metadata:
     name: source-configuration
+    namespace: open-feature-demo
 spec:
     metricsPort: 8080
     evaluator: json
