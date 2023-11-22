@@ -1,4 +1,4 @@
-GITOPS_REPO ?= https://github.com/toddbaert/cloud-native-demo
+GITOPS_REPO ?= https://github.com/open-feature/cloud-native-demo
 
 cleanup-environment: uninstall-ofo uninstall-argo
 
