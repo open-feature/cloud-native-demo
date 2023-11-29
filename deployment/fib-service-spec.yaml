@@ -82,9 +82,9 @@ metadata:
   name: open-feature-fib-service-config
   namespace: open-feature-demo
 data:
-  OTEL_EXPORTER_JAEGER_AGENT_HOST: open-feature-demo-jaeger-service
+  OTEL_EXPORTER_JAEGER_AGENT_HOST: "open-feature-demo-jaeger-service"
   OTEL_EXPORTER_JAEGER_AGENT_PORT: "6832"
-  OTEL_SERVICE_NAME: fibonacci-service
+  OTEL_SERVICE_NAME: "fibonacci-service"
   FIB_SERVICE_USER: ""
   FIB_SERVICE_PASS: ""
-  NODE_ENV: production
+  NODE_ENV: "production"
