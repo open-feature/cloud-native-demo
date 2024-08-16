@@ -6,7 +6,7 @@ metadata:
   labels:
     app: open-feature-demo-otel-collector
 spec:
-  replicas: 3
+  replicas: 2
   selector:
     matchLabels:
       app: open-feature-demo-otel-collector
